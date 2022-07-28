@@ -1,0 +1,6068 @@
+// @media only screen and (min-device-width: 771px) {
+//   .App-mob{
+//       display:none;
+//   }
+  
+  
+  @media only screen and(min-width: 772px) and (min-height:700px){
+      .App-mob{
+        display:none;
+      }
+      body{
+          line-height: 1;
+          background: #0B0C1D url(../assets/media/bg4k.svg) center 0 no-repeat;
+          // width: 100%;
+          height: 100%;
+          background-size: cover;
+      }
+      header{
+          margin: 0 auto;
+          margin-top:13px;
+          height: 76px;
+          width: 1360px;
+      }
+      .left-down-left-bl{
+        height: 372px;
+        width: 663px;
+        border-radius: 4px;
+        margin-left: 20px;
+      }
+      footer{
+          margin: -20px auto;
+          height: 92px;
+          width: 1360px; 
+      }
+      .driiidik{
+        margin-left: -135px;
+        background: url(../assets/media/driiiiidik.svg) center center no-repeat;
+        width: 140px;
+        height: 117px;
+        margin-top: -30px;
+        background-size: cover;
+      }
+      .card-prime{
+        margin-left:-35px;
+      }
+  
+      .card-prime-img{
+        height:83px;
+        width:184px;
+        margin-left:6px;
+        background-size: 145px;
+        background-position-x: 20px;
+        background-position-y:-21px;
+      }
+      .center{
+          width: 1360px;
+          margin-top:16px;
+      }
+      .menu-open{
+          width: 25px;
+          height: 10px;
+      }
+      #card-prime-img{
+          width: 122px;
+          height: 113px;      
+      }
+      .card-prime h1{
+          width: 114px;
+          height: 28px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 13px;
+          line-height: 107%;
+          letter-spacing: 3px;
+          color: #FFFFFF;
+          opacity: 0.6;
+      }
+      .smart-sc{
+          width: 159px;
+          height: 30px;
+          background-size: cover;
+      }
+      .smart-b{
+          width: 19px;
+          height: 22px;
+      }
+      .smart-sc h1 {
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 378;
+          font-size: 13px;
+          line-height: 18px;
+          text-align: center;
+          color: #FFFFFF;
+          opacity: 0.8;
+      }
+      .money{
+          background-size: cover;
+          width: 242px;
+          height: 41px;
+      }
+      .wallet{
+          width: 16px;
+          height: 16px;
+      }
+      .money h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 13px;
+          line-height: 18px;
+          text-align: center;
+          color: #FFFFFF;
+          opacity: 0.8;
+      }
+      .string{
+          width:0.8px;
+          height:16.84px;
+      }
+      .user-name{
+          width: 129px;
+          justify-content: center;
+      }
+      .user-name h1 {
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 378;
+          font-size: 13px;
+          line-height: 18px;
+          text-align: center;
+          color: #FFFFFF;
+          opacity: 0.8;
+      }
+      .user-pr{
+          width: 42px;
+          height: 42px;
+      }
+      .user-q{
+          width: 24px;
+          height: 24px;
+          margin: 9px 34px;
+      }
+      .search{
+          background-size: cover;
+          width: 18px;
+          height: 18px;
+      }
+      .pre-footer h1 {
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 13px;
+          line-height: 107%;
+          text-align: center;
+          letter-spacing: 2px;
+          color: #FFFFFF;
+          opacity: 0.6;     
+          margin-bottom: 10px;
+      }
+      .footer-section{
+          height: 130px;
+      }
+      .left-footer{
+          width: 150px;
+          height: 88px;
+      }
+      .left-footer h1{
+          width: 100px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 13px;
+          line-height: 107%;
+          text-align: center;
+          letter-spacing: 2px;
+          color: #FFFFFF;
+          opacity: 0.6;
+      }
+      .footer-line{
+          width: 39px;
+          height: 2px;
+          margin-top: -7px;
+      }
+      .dis-f{
+          height: 21px;
+          width: 23px;
+      }
+      .telega-f{
+          margin-left: -14px;
+          height: 23px;
+          width: 23px;
+      }
+      .footer-position{
+        width: 121px;
+        height: 88px;
+          margin-right: 8px;
+      }
+      .line-f{
+          width: 105px;
+          height: 76px;
+      }
+      .word-ic{
+          background-size: cover;
+          height: 24px;
+          width: 24px;
+        }
+        .partner-ic{
+          background-size: cover;
+          height: 29px;
+          width: 29px;
+        }
+        .stat-ic{
+          background-size: cover;
+          height: 22px;
+          width: 20px;
+        }
+        .info-ic{
+          background-size: cover;
+          height: 24px;
+          width: 19px;
+        }
+        .telega-ic{
+          background-size: cover;
+          height: 25px;
+          width: 21px;
+        }
+        .promo-ic{
+          background-size: cover;
+          height: 22px;
+          width: 22px;
+        }
+        .news-ic{
+          background-size: cover;
+          height: 22px;
+          width: 22px;
+        }
+        .line-f h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 13px;
+          line-height: 18px;
+          text-align: center;
+          color: #FFFFFF;
+          opacity: 0.6;
+      }
+      .chatik{
+        height: 88px;
+        width: 226px;
+      }
+      .chat-ic{
+          width: 27px;
+          height: 22px;
+      }
+      .chatik h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 13px;
+          line-height: 18px;
+          text-align: center;
+          color: #FFFFFF;
+          opacity: 0.6;
+      }
+      .footer-down-line{
+          height: 6px;
+          width: 128px;
+      }
+      .footer-block{
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          justify-content: flex-end;
+      }
+      .profile{
+        height: 588px;
+        width: 325px;
+        margin-right: 4px;
+        margin-bottom: 26px;
+      }
+      .profile-icon img{
+          height: 138px;
+          width: 138px;
+      }
+      .profile-icon{
+          height: 138px;
+          width: 138px;
+          margin: 31px auto;
+      }
+      .card-count2{     
+          
+          font-style: normal;
+          font-weight: 500;
+          font-size: 23px;
+          line-height: 21px;
+          color: #FFFFFF;
+          opacity: 0.8;
+      }
+      .profile-id{
+          height:21px;
+          font-family: "Nippo-B";
+          font-style: normal;
+          font-weight: 700;
+          font-size: 24px;
+          line-height: 19px;
+          text-align: center;
+          color: #FFFFFF;
+          opacity: 0.9;
+      }
+      .button-show{
+        margin-top:0px;
+        height:53px;
+      }
+      .wallet-id{
+          margin-top: 12px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 13px;
+          line-height: 18px;
+          text-align: center;
+          color: #FFFFFF;
+          opacity: 0.6;
+      }
+      .wallet-id img{
+          height: 12px;
+          width: 13px;
+      }
+      .arrow-icon{
+          width: 45px;
+          height: 45px;
+          border-radius: 24px;
+      }
+      .arrow-icon img{
+          width: 19px;
+          height:16px;
+      }
+      .arrow-icon:hover{
+          background: linear-gradient(134.2deg, #EA3498 -2.74%, #A6075E 95.67%);
+          box-shadow: 0px 0px 95.4494px #E33093;
+          border-radius: 24px;
+      }
+      .arrows-menu{
+          width: 269px;
+      }
+      .horizontal-line{
+          height: 69px;
+          width: 1px;
+      }
+      .path{
+          margin-top: 16px;
+          height: 13px;
+          width: 6px;
+      }
+      .score-graph{
+        width: 325px;
+        height: 228px;
+          background-position-y: 0px;
+          background-size: 329px;
+          background-position-x: -3px;
+      }
+      .graph img{
+          margin: 46px 0px 0px 123px;
+      }
+      .graph{
+          width: 324px;
+          height: 109px;
+          background: url(../assets/images/graph.svg);
+          background-repeat: no-repeat;
+          background-position-x: -1px;
+          background-position-y: -1px;
+          background-size: 326px;
+      }
+      .profit-block{
+          height: 123px;
+          width:326px;
+      }
+      .button-show-svg{
+          width: 209px;
+          height: 55px;
+      }
+      .button-show-plus{
+          bottom: 47px;
+          right: 48px;
+          font-size: 20.5438px;
+
+      }
+      .profit{
+          height:11px;
+          margin-bottom:11px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 13px;
+          line-height: 107%;
+          text-align: center;
+          letter-spacing: 2px;
+          color: #FFFFFF;
+          opacity: 0.6;
+      }
+      .r-c-s{
+          width: 1025px;
+          margin-left: 22px;
+          margin-right: 10px;
+          height: 625px;
+      }
+      .dashboard{
+          width: 1005px;
+          height: 60px;
+          margin-top: 6px;
+          margin-left: 10px;
+      }
+      .dashboard-title{
+          font-family: 'Sportypo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 60px;
+          line-height: 60px;
+          /* identical to box height, or 100% */
+          
+          
+          color: #FFFFFF;
+          
+          opacity: 0.9;
+          text-shadow: 0px 24.0535px 64.1426px rgba(214, 50, 143, 0.47);
+      }
+      .personal-link{
+          height: 74px;
+          width: 234px;
+          border-radius: 4px;
+          margin-right: 10px;
+      }
+      .card4-first{
+          margin-top: 2px;
+      }
+      .personal-link-title{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 13px;
+          line-height: 107%;
+          /* identical to box height, or 14px */
+          
+          letter-spacing: 2px;
+          
+          color: #FFFFFF;
+          margin-bottom: 4px;
+          opacity: 0.6;
+      }
+      .link-purple-line{
+          height: 2px;
+          width: 82px;
+          border-radius: 0px;
+
+      }
+      .link-text{
+          font-family: "Nippo";
+          font-style: normal;
+          font-weight: 378;
+          font-size: 14px;
+          line-height: 18px;
+          color: #FFFFFF;
+          width: 82px;
+          opacity: 0.8;
+          display: flex;
+      }
+      .link-img1{
+          height: 25px;
+          width: 74px;
+          border-radius: 4px;  
+          background: linear-gradient(101.44deg, #19E1F2 14.32%, #6CE7DD 98.22%);
+          margin-left: 9px;
+          margin-right: 7px;
+      }
+      .link-img2{
+          height: 25px;
+          width: 27px;
+          border-radius: 4px;
+          
+          background: linear-gradient(101.44deg, #19E1F2 14.32%, #6CE7DD 98.22%);
+      }
+      .card{
+          height: 90px;
+          width: 234px;
+          border-radius: 4px;
+          
+      }
+      .card-content{
+          margin-top: 3px;
+      }
+      .card-count{
+          font-family: 'Nippo-B';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 22px;
+          line-height: 21px;
+          color: #FFFFFF;
+          opacity: 0.8;
+      }
+      .card-count2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position:relative;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 21px;
+        color: #FFFFFF;
+        opacity: 1;
+      }
+      .card-count2 .id1{
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        color: #D2459E;
+        margin: -1px 1px 0px 0px;
+        margin-top:1px;
+      }
+      .card-count2 .id2{
+        top: 0;
+        left: 0;
+        right: 0;
+        color: #17E3F3;
+        margin: 1px -1px 0px 0px;
+      }
+      .card-count2 .id3{
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        color: #FFFFFF;
+        margin:0;
+        margin-top:2px;
+      }
+      .number-cards{
+          width: 1005px;
+          height: 60px;
+      }
+      .card-text{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 14px;
+          line-height: 107%;
+          /* identical to box height, or 15px */
+          
+          letter-spacing: 3px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.7;
+      }
+      .card-percent{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 21px;
+          width: 59px;        
+          background: linear-gradient(135deg, #51C81C 0%, #48AF1B 100%);
+          border-radius: 4px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 14px;
+          line-height: 14px;
+          /* identical to box height, or 100% */
+          
+          
+          color: #FFFFFF;          
+          margin-left: 13px;
+      }
+      .card-under-line{
+          height: 2px;
+          width: 102px;
+          border-radius: 0px;
+          
+      }
+      .card-percent2{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 21px;
+          width: 60px;
+          border-radius: 4px;        
+          background: linear-gradient(135deg, #FC381D 0%, #DB2F18 100%);
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 14px;
+          line-height: 14px;
+          /* identical to box height, or 100% */
+          
+          
+          color: #FFFFFF;
+          
+          margin-left: 15px;
+      }
+      .card1-img{
+          height: 43px;
+          width: 23px;           
+        }
+        .card2-img{
+          height: 42px;
+          width: 42px;          
+        }
+        .card3-img{
+          height: 38px;
+          width: 44px;
+        }
+        .card4-img{
+          height: 39px;
+          width: 39px;
+
+          
+      }
+      .card-under-line2{
+          height: 2px;
+          width: 78px;
+          border-radius: 0px;    
+          background: #EA3498;
+          opacity: 0.4;
+          box-shadow: 0px -42.8801px 100.054px 128.64px rgba(234, 52, 151, 0.06);
+      }
+      .card-count-block2{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 37.1177px;
+          line-height: 34px;
+          color: #FFFFFF;
+          opacity: 0.8;
+          margin-top:-3px;
+      }
+      .card-count-block2 img{
+          height: 7px;
+          margin-left: 10px;
+          width: 137px;
+       border-radius: 4px;     
+      }
+      #car-information{
+        margin-left: 4px;
+        margin-bottom: 10px;
+          margin-top: 20px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 300;
+          font-size: 12.8285px;
+          line-height: 17px;
+          letter-spacing: 1.60356px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.8;
+      }
+      .card-over{
+        height: 95px;
+      }
+      .card-under-line-selected{
+        position: relative;
+          bottom: 3px;
+          height: 3px;
+          width: 234px;
+          display: none;
+          background: linear-gradient(90deg, rgba(210, 70, 158, 0.83) 0.78%, rgba(75, 213, 207, 0.83) 100.02%);
+          mix-blend-mode: normal;
+          opacity: 0.7;
+          border-radius: 5px 5px 0px 0px;
+      }
+      .card-over:hover .card-under-line-selected{
+        display: flex;
+      }
+      .left-up-bl{
+          display: flex;
+          flex-direction: column;
+          justify-content: space-evenly;
+          height: 177px;
+          width: 319px;
+          border-radius: 4px;       
+          background: linear-gradient(90deg, rgba(210, 70, 158, 20%) 0.78%, rgba(75, 213, 207, 20%) 100.02%);
+          margin-bottom: 17px;
+          mix-blend-mode: normal;
+      }
+      .left-down-bl-1{
+          height: 178px;
+          width: 314px;
+          border-radius: 8px;
+          border: 3.56135px solid rgba(255, 255, 255, 0.04);
+      }
+      .left-down-bl{
+        position: relative;
+        left: -1px;
+          display: flex;
+          flex-direction: column;
+          justify-content: space-evenly;
+          height: 179px;
+          width: 316px;
+          border-radius: 4px;    
+          background: linear-gradient(90deg, rgba(210, 70, 158, 20%) 0.78%, rgba(75, 213, 207, 20%) 100.02%);
+      }
+      #left-up-bl-up-h1{
+          margin-left: 8px;
+          margin-right: 50px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 14px;
+          line-height: 107%;
+          /* identical to box height, or 15px */
+          
+          letter-spacing: 3px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.7;
+      }
+      .left-up-bl-up-active{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 19px;
+          width: 47px;
+          border-radius: 4px;      
+          background: #EA3498;
+          box-shadow: 0px -42.1019px 98.2379px 126.306px rgba(234, 52, 151, 0.06);
+      }
+      .left-up-bl-up-active h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 10px;
+          line-height: 10px;
+          /* or 100% */
+          
+          text-align: center;
+          
+          color: #FFFFFF;
+          
+      }
+      .left-up-bl-check-up-block{
+          height: 40px;
+          width: 44px;
+          border-radius: 4px;        
+      }
+      .left-up-bl-check-up-block-enable{
+          height: 40px;
+          width: 45px;
+      
+          border-radius: 4px;       
+      }
+      .left-up-bl-check-up{
+          margin-bottom: 5px;
+          margin-left: 22px;
+      }
+      .left-up-bl-check-up-block-plus{
+          height: 40px;
+          width: 45px;
+          border-radius: 4px;      
+      }
+      .plus-box{
+          width: 24px;
+          height: 24px;
+      }
+      .left-down-bl-up h1{
+         top: 12px;
+          position: relative;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 14px;
+          line-height: 107%;
+          /* identical to box height, or 15px */
+          
+          letter-spacing: 3px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.7;
+      }
+      .left-down-bl-down-left{ 
+          margin-bottom: 30px;
+      }
+      #binance{
+        margin-left: 23px;
+      }
+      #left-down-bl-down-left-h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 11px;
+          line-height: 13px;
+          /* or 118% */
+          
+          display: flex;
+          align-items: flex-end;
+          letter-spacing: 1px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.8;
+      }
+      #left-down-bl-down-left-h2{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 14px;
+          line-height: 14px;
+          /* identical to box height, or 100% */
+          height: 22px;
+          width: 58px;
+
+          
+          color: #FFFFFF;
+          
+          opacity: 0.9;
+      }
+      #left-down-bl-down-left-h3{
+          width: 106px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 11px;
+          line-height: 13px;
+          /* or 118% */
+          
+          display: flex;
+          align-items: flex-end;
+          letter-spacing: 1px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.8;
+      }
+      #left-down-bl-down-left-h4{
+          width: 58px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 14px;
+          line-height: 14px;
+          /* identical to box height, or 100% */
+          height: 22px;
+          width: 58px;
+
+          color: #FFFFFF;
+
+          opacity: 0.9;
+      }
+      .left-down-bl-down-right-car{
+          width: 191px;
+          height: 181px;
+      background-size: cover;
+      }
+      .left-down-bl-down-line{
+          width: 320px;
+          height: 6px;
+          border-radius: 4px;
+          
+      }
+      .car{
+        position: relative;
+        top: -1px;
+        left: -1px;
+        height: 374px;
+        width: 665px;
+        border-radius: 2px;
+        margin-left: 0px;
+
+      }
+      .car-upper-block{
+          height: 37px;
+          width: 597px;
+          border-radius: 4px;
+         
+      }
+      .car-center-block{
+          margin-top: 0px;
+          width: 597px;
+      }
+      .car-parameter{
+          height: 118px;
+          width: 139px;
+          border-radius: 4px;
+          
+      }
+      .car-parameters{
+          height: 260px;
+      }
+      .car-big{
+          height: 330px;
+          width: 250px;
+          background-size: 240px;
+      }
+      .car-big-content{
+          height: 330px;
+          width: 222px;
+          margin-left: 16px;
+          background-size: cover;
+      }
+      .car-parameter-title{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 11px;
+          line-height: 13px;
+          /* identical to box height, or 118% */
+          
+          letter-spacing: 1px;
+          margin-bottom: 4px;
+          color: #FFFFFF;
+          
+          mix-blend-mode: normal;
+          opacity: 0.6;
+      }
+      .car-parameter-value-text1{
+          width: 50px;
+      }
+      .left-down-bl-up{
+        margin-left: 20px;
+      }
+      .car-parameter-value-text1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 300;
+          font-size: 42px;
+          line-height: 35px;
+          /* identical to box height, or 83% */
+          
+          
+          color: #ffffff;
+      }
+      .car-parameter-value-text2{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 300;
+          font-size: 12px;
+          line-height: 12px;
+          /* identical to box height, or 100% */
+          
+          text-align: center;
+          
+          color: #FFFFFF;
+          margin: -5px 13px 4px 0px;
+      }
+      .car-parameter-value-content{
+          margin-bottom: 5px;
+      }
+      .car-control{
+          margin-top: 0px;
+      }
+      .car-control-up{
+          width: 17px;
+          height: 17px;
+      }
+      .car-control-down{
+          width: 17px;
+          height: 17px;
+      }
+      #locked{
+          width: 28px;
+          height: 28px;
+          background-repeat: no-repeat;
+          background-size: cover;
+      }
+      #locked:hover{
+          width: 28px;
+          height: 28px;
+          background: url(../assets/images/big-car-unlocked.svg);
+          background-repeat: no-repeat;
+          background-size: cover;
+        }
+        .car-big-up{
+          width: 222px;
+        }
+        .car-big-center{
+          width: 200px;
+          margin-top: 50px;
+        }
+        .locked-down{
+          margin-top: 100px;
+        }
+        .car-radio-text{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 12px;
+          line-height: 28px; 
+          /* identical to box height, or 233% */
+
+
+          color: #FFFFFF;
+          opacity: 0.9;
+        }
+        .checkbox{
+          width: 23px;
+          height: 15px;
+        }
+        #button-1 .checkbox:checked + .knobs:before{
+          left: 9px;
+        }
+        #button-1 .knobs:before{
+          width: 13px;
+          height: 13px;
+        }
+        .layer{
+          width: 23px;
+          height: 15px;
+        }
+        .car-img5{
+          width: 24px;
+          margin-right: 20px;
+          margin-top: 36px;
+        }
+        .car-parameter-content{
+          margin: 21px 0 auto 23px;
+        }
+        .car-parameter-value-text3{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 300;
+          font-size: 23px;
+          line-height: 23px;
+          /* identical to box height, or 100% */
+
+          letter-spacing: 0.441876px;
+
+          color: #FFFFFF;
+          margin-right: 0px;
+        }
+        .car-img4{
+          height: 66px;
+        }
+        .car-img1{
+          width: 20px;
+          height: 15px;
+          margin-left: 24px;
+        }
+        .car-tesla-text{
+          margin-bottom: 5px;
+          margin-left: 8px;
+          margin-right: 10px;
+          width: 100px;
+          font-family: 'Nippo-B';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 11px;
+          line-height: 13px;
+          /* identical to box height, or 118% */
+
+          display: flex;
+          align-items: flex-end;
+          letter-spacing: 1px;
+
+          color: #FFFFFF;
+
+          opacity: 0.9;
+        }
+        .car-tesla-text2{
+          width: 60px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 11px;
+          line-height: 11px;
+          color: #FFFFFF;    
+          mix-blend-mode: normal;
+          opacity: 0.4;
+        }
+        .car-slider-limit{
+          margin-left: 5px;
+          margin-right: 13px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 14px;
+          line-height: 107%;
+          /* or 15px */
+          
+          text-align: center;
+          letter-spacing: 3px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.6;
+        }
+        .car-img2{
+          margin-left: 36px;
+          height: 27px;
+          width: 83px;
+          border-radius: 4px;
+          margin-top: 5px;
+          margin-bottom: 5px;
+        }
+        .carSlideText{
+          bottom: -7px;
+        }
+        .arrow-people{
+          width: 45px;
+        }
+        .arrow-under-text{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 300;
+          font-size: 15px;
+          line-height: 23px;
+          color: #FFFFFF;
+          text-align:center;
+        }
+        input[type=range] {
+          -webkit-appearance: none;
+          width: 194px;
+          height:3px;
+          background: linear-gradient(90deg, rgb(210, 70, 158) 0.78%, rgba(75, 213, 207) 100.02%);
+          mix-blend-mode: normal;
+          border-radius: 4px;
+        }
+        input[type=range]:focus {
+          outline: none;
+        }
+        input[type=range]::-webkit-slider-runnable-track {
+          width: 100%;
+          height: 2px;
+          cursor: pointer;
+          animate: 0.2s;
+          background: linear-gradient(90deg, rgb(210, 70, 158) 0.78%, rgba(75, 213, 207) 100.02%);
+          mix-blend-mode: normal;
+          border-radius: 4px;
+        }
+        #typeinp::-webkit-slider-thumb{
+          background-position-x: center;
+          background-position-y: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          width:23px;
+          height:15px;
+          box-shadow: 0px 0px 52.4558px #E33093;
+          border-radius: 5.24558px;
+          cursor: pointer;
+          -webkit-appearance: none;
+          margin-top: -7px;
+        }
+        input[type=range]:focus::-webkit-slider-runnable-track {
+          background: linear-gradient(90deg, rgb(210, 70, 158) 0.78%, rgba(75, 213, 207) 100.02%);
+          mix-blend-mode: normal;
+          border-radius: 4px;
+        }
+
+  }
+  // @media only screen and (min-width: 1538px) {
+  //     header{
+  //         width: 1475px;
+  //         margin-right: 20px;
+  //         margin-left: 20px;
+  //     }
+  //     .number-cards{
+  //         width:1066px;
+  //     }
+  //     .dashboard{
+  //         width:1066px;
+  //     }
+  //     .personal-link{
+  //         width:264px;
+  //     }
+  //     .r-c-s{
+  //         width:1074px;
+  //         margin-right:20px;
+  //     }
+  //     .card{
+  //         width:264px;
+  //     }
+  //     .card-under-line-selected{
+  //         width:264px;
+  //     }
+  //     .car{
+  //         width:670px;
+  //     }
+  //     .car-upper-block{
+  //         width:650px;
+  //     }
+  //     .car-img1{
+  //         margin-left:20px;
+  //     }
+  //     .car-tesla-text{
+  //         width:107px;
+  //     }
+  //     .car-tesla-text2{
+  //         width:56px;
+  //     }
+  //     .car-center-block{
+  //         width:650px;
+  //     }
+  //     .left-up-bl{
+  //         width:375px;
+  //     }
+  //     .left-down-bl{
+  //         width:368px;
+  //     }
+  //     .left-down-bl-down-line{
+  //         width:375px;
+  //     }
+  //     footer{
+  //         width: 1475px;
+  //         margin-left: 20px;
+  //         margin-right: 20px;
+  //     }
+  //     .l-c{
+  //         margin-right:4px;
+  //     }
+  //     .left-footer{
+  //         width:150px;
+  //     }
+  //     .r-c{
+  //         margin-left:0px;
+  //     }
+  //     .chatik{
+  //         width:196px;
+  //     }
+  //     .chat-ic{
+  //         margin-left:29px;
+  //     }
+  //     .chatik h1{
+  //         margin-left:6px;
+  //     }
+  //     .circle-3{
+  //         position: absolute;
+  //         right: 25px;
+  //         background-size: 130px;
+  //         width: 150px;
+  //         height: 150px;
+  //         bottom: -320px;
+  //     }
+  //     .circle-2{
+  //         background-size: 130px;
+  //         height: 150px;
+  //         width: 150px;
+  //         right: -25px;
+  //     }
+  //     .circle-1{
+  //         background-size: 90px;
+  //         width: 101px;
+  //         height: 101px;
+  //         right: -30px;
+  //         bottom: -29px;
+  //     }
+  //     .drid{
+  //         background-size: 83px;
+  //         right: 34px;
+  //         bottom: 30px;
+  //     }
+  //     @media only screen and (max-height: 791px){
+  //         // header{
+  //         //     height:90px;
+  //         // }
+  //         // .dashboard{
+  //         //     height:74px;
+  //         //     margin-bottom: 15px;;
+  //         // }
+  //         // .personal-link{
+  //         //     height:74px;
+  //         // }
+  //         // .number-cards{
+  //         //     margin-bottom:3px;
+  //         //     height:90px;
+  //         // }
+  //         // .card{
+  //         //     height:90px;
+  //         // }
+  //         // #car-information{
+  //         //     margin-bottom:3px;
+  //         // }
+  //     }
+  // }
+  @media only screen and (min-width: 1919px) and (min-height: 1080px){
+      body{
+          line-height: 1;
+          background: #0B0C1D url(../assets/media/bg4k.svg) center 0 no-repeat;
+          width: 100%;
+          height: 100%;
+          background-size: cover;
+      }
+      .card-prime-img{
+        background: url(../assets/cards3.svg) center center no-repeat;
+        width: 178px;
+        height: 116px;
+        background-position-x: -11px;
+        background-position-y: -25px;
+        margin-left: 42px;
+      }
+      .left-down-left-bl{
+        width: 791px;
+        height: 434px;
+        border-radius: 4px;
+        margin-left: 20px;
+        border-radius: 5.24558px;
+        margin-left: 17px;
+      }
+      .driiidik{
+        margin-left: -173px;
+        width: 214px;
+        height: 167px;
+        margin-top: -40px;
+      }
+      header{
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          height: 117px;
+          width: 1620px;
+          margin: 20px auto;
+          background: rgba(190 190 190 / 10%);
+          border-radius: 4.75904px;
+        }
+        .center{
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          justify-content: center;
+          margin: 0 auto;
+          width: 1620px;
+        }
+        .left-sec{
+          display: flex;
+          align-items: center;
+        }
+        .r-c-s{
+          display: flex;
+          width: 1230px;
+          height: 718.67px;
+          flex-direction: column;
+          align-items: flex-start;
+        }
+        .center-sec{
+          display: flex;
+          align-items: center;
+        }
+        .right-sec{
+          display: flex;
+          align-items: center;
+        }
+        .card-prime{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          margin-left: -15px;
+        }
+        // so invain
+        // .card-prime h1{
+        //   font-family: 'Nippo';
+        //   font-style: normal;
+        //   font-weight: 200;
+        //   font-size: 15.2312px;
+        //   line-height: 107%;
+        //   letter-spacing: 2.85585px;
+        //   color: #FFFFFF;
+        //   width: 131px;
+        //   opacity: 0.6;
+        //   position: fixed;
+        //   left: 430px;
+        // }
+        .card-prime h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 15.2312px;
+          line-height: 107%;
+          letter-spacing: 2.85585px;
+          color: #FFFFFF;
+          width: 131px;
+          opacity: 0.6;
+        }
+        .menu-open{
+          background: url(../assets/menu-open.svg)center 0 no-repeat;
+          background-size: cover;
+          width: 24px;
+          height: 13px;
+          margin-left: 45px;
+        }
+        .smart-sc{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          background: url(../assets/bg-sc.png)center 0 no-repeat;
+          width: 198px;
+          height: 38px;
+        }
+        .smart-b{
+          background: url(../assets/binancedex.svg)center 0 no-repeat;
+          background-size: cover;
+          width: 23px;
+          height: 27px;
+        }
+        .smart-sc h1{
+          font-family: 'Nippo';
+          font-weight: 378;
+          font-size: 15.2312px;
+          line-height: 21px;
+          text-align: center;
+          color: #FFFFFF;
+          opacity: 0.8;
+          margin-left: 7px;
+        }
+        .money{
+          background: url(../assets/money-bg.png)center 0 no-repeat;
+          width: 290px;
+          height: 51px;
+          display: flex;
+          align-items: center;
+          justify-content: space-evenly;
+          margin-left: 23px;
+        }
+        .money h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 15.2312px;
+          line-height: 21px;
+          text-align: center;
+          color: #FFFFFF;
+          opacity: 0.8;
+        }
+        .w-t{
+          display: flex;
+        }
+        .wallet{
+          background: url(../assets/wallet-ic.svg)center 0 no-repeat;
+          background-size: cover;
+          width: 21px;
+          height: 19px;
+        }
+        .string{
+          width: 0.95px;
+          height: 19.99px;
+          top: 68.59px;
+          mix-blend-mode: normal;
+          opacity: 0.15;
+          background: #979797;
+          border: 1px solid #979797;
+        }
+        .user-name{
+          display: flex;
+          width: 131px;
+          align-items: center;
+          justify-content: space-between;
+        }
+        .user-name h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 378;
+          font-size: 15.2312px;
+          line-height: 21px;
+          text-align: center;
+          color: #FFFFFF;
+          opacity: 0.8;
+        }
+        .user-q{
+          display: flex;
+        }
+        .user-pr{
+          background: url(../assets/user-ic.svg)center 0 no-repeat;
+          width: 51px;
+          background-size: cover;
+          height: 51px;
+          margin-left: 10px;
+        }
+        .user-q{
+          background: url(../assets/user-quit.svg)center 0 no-repeat;
+          background-size: cover;
+          width: 33px;
+          height: 33px;
+          margin: 10px 35px;
+        }
+        .search{
+          margin-left: 67px;
+          margin-right: 49px;
+          background: url(../assets/search.png)center 0 no-repeat;
+          width: 23px;
+          height: 23px;
+        }
+        footer{
+          display: flex;
+          width: 1620px;
+          height: 131px;
+          margin: -12px auto;
+          flex-direction: column;
+          justify-content: flex-start;
+        }
+        .footer-section{
+          display: flex;
+          align-items: center;
+          height: 165px;
+        }
+        .footer-position{
+          width: 148.48px;
+          height: 109.46px;
+          background: rgba(190 190 190 / 10%);
+          border: 3.56135px solid rgba(255, 255, 255, 0.04);
+          border-radius: 4.75904px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-right: 4px;
+        }
+        .footer-down-line{
+          display: none;
+          width: 148.02px;
+          height: 6.6px;
+          background: #EA3498;
+          box-shadow: 0px -30.9701px 72.2636px 92.9104px rgb(234 52 151 / 6%);
+          border-radius: 4.75905px; 
+          position: absolute;
+        }
+        .l-c{
+          margin-right: 22px;
+        }
+        .r-c{
+          margin-left: 16px;
+          display: flex;
+          align-items: center;
+        }
+        .footer-block{
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: flex-end;
+        }
+        .footer-position:hover{
+          background: linear-gradient(134.2deg, #EA3498 -2.74%, #A6075E 95.67%);
+          box-shadow: 0px 0px 95.4494px #E33093;
+          border-radius: 9.54494px;
+        }
+        .footer-block:hover .footer-down-line{
+        display: flex;
+        }
+        .footer-block:hover .line-f{
+          border: 0px solid rgba(255, 255, 255, 0.04);
+        }
+        .left-footer{
+          height: 109.46px;
+          width: 182.75px;
+          display: flex;
+          align-items: center;
+          flex-direction: column;
+          justify-content: space-evenly;
+          background: rgba(190 190 190 / 10%);
+          border: 3.56135px solid rgba(255, 255, 255, 0.04);
+          border-radius: 4.75904px;
+        }
+        .left-footer h1{
+          width: 130px;
+          height: 32px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 15.2289px;
+          line-height: 107%;
+          text-align: center;
+          letter-spacing: 2.85543px;
+          color: #FFFFFF;
+          opacity: 0.6;
+        }
+        .footer-line{
+          width: 46.64px;
+          height: 1.9px;
+          background: #EA3498;
+          opacity: 0.4;
+          box-shadow: 0px -28.5543px 66.6267px 85.6629px rgba(234, 52, 151, 0.19);
+        }
+        .left-footer-ic{
+          width: 77px;
+          display: flex;
+          justify-content: space-around;
+          align-items: center;
+        }
+        .dis-f:hover *{
+          width: 26px;
+          height: 29px;
+          fill: #19e1f2;
+          opacity: 1;
+          // background: url(../assets/dis-ic.svg)center 0 no-repeat;
+        }
+        .telega-f:hover *{
+          width: 26px;
+          height: 29px;
+          fill: #19e1f2;
+          opacity: 1;
+        }
+        .c-c{
+          display: flex;
+          align-items: center;
+        }
+        .line-f{
+          width: 125.64px;
+          height: 92.32px;
+          border: 3.56135px solid rgba(255, 255, 255, 0.02);
+          border-radius: 4.75904px;
+          display: flex;
+          align-items: center;
+          justify-content: space-evenly;
+          flex-direction: column;
+        }
+        .word-ic{
+          background: url(../assets/word-ic.svg)center 0 no-repeat;
+          width: 30px;
+          height: 30px;
+        }
+        .line-f h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 15.2289px;
+          line-height: 21px;
+          text-align: center;
+          color: #FFFFFF;
+          opacity: 0.8;
+        }
+        
+        .pre-footer h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 15.2289px;
+          line-height: 107%;
+          text-align: center;
+          letter-spacing: 2.85543px;
+          color: #FFFFFF;
+          opacity: 0.6;
+          margin-bottom: 13px;
+        }
+        .partner-ic{
+          background: url(../assets/partner.svg)center 0 no-repeat;
+          width: 30px;
+          height: 30px;
+        }
+        .stat-ic{
+          background: url(../assets/stat.svg)center 0 no-repeat;
+          width: 30px;
+          height: 30px;
+        }
+        .info-ic{
+          background: url(../assets/papka.svg)center 0 no-repeat;
+          width: 30px;
+          height: 30px;
+        }
+        .telega-ic{
+          background: url(../assets/telega.svg)center 0 no-repeat;
+          width: 30px;
+          height: 30px;
+        }
+        .promo-ic{
+          background: url(../assets/video.svg)center 0 no-repeat;
+          width: 30px;
+          height: 30px;
+        }
+        .news-ic{
+          background: url(../assets/messages.svg)center 0 no-repeat;
+          width: 30px;
+          height: 30px;
+        }
+        .chatik{
+          width: 266px;
+          height: 111px;
+          background: rgba(190 190 190 / 10%);
+          border: 3.56135px solid rgba(255, 255, 255, 0.04);
+          border-radius: 4.75904px;
+          display: flex;
+          flex-direction: column;
+          justify-content: space-evenly;
+          // margin-top: 14px;
+        }
+        .chat-ic{
+          width: 33px;
+          height: 29px;
+          margin-left: 32px;
+        }
+        .chat-ic *{
+          fill: #918c8f;
+        }
+        .chat-ic:hover *{
+          fill: #19e1f2;
+        }
+        .chatik h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 15.2289px;
+          line-height: 21px;
+          color: #FFFFFF;
+          opacity: 0.6;
+          margin-left: 13px;
+        }
+        
+        
+        
+        
+        
+        .profile{
+          width: 389px;
+          height: 718.67px;
+          background: rgb(190 190 190 / 10%);
+          border-radius: 4.75904px;
+          margin-right: 3px;
+          margin-left: 18px;
+        }
+        .profile-icon{
+          height:164px;
+          width:164px;
+          margin:31px auto 38px auto;
+        }
+        .profile-id{
+          position:relative;
+          margin:0 auto;
+          height: 23px;
+          font-family: 'Nippo-B';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 25px;
+          line-height: 23px;
+          text-align: center;
+          letter-spacing: 0.14px;
+          margin:0 auto 11px auto;
+          opacity: 0.9;
+        }
+        .profile-id .id1{
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          color: #D2459E;
+          margin: -1px 1px 0px 0px;
+        }
+        .profile-id .id2{
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          color: #17E3F3;
+          margin: 1px -1px 0px 0px;
+        }
+        .profile-id .id3{
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          color: #FFFFFF;
+          margin:0;
+        }
+        .wallet-id{
+          display:flex;
+          flex-direction: row;
+          align-items: center;
+          justify-content: center;
+          width:142px;
+          height:21px;
+          margin:0 auto;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 15px;
+          line-height: 21px;
+          color:#FFFFFF;
+          opacity: 0.6;
+        }
+        .arrows-menu{
+          display:flex;
+          flex-direction: row;
+          justify-content: space-between;
+          align-items: flex-start;
+          width:320px;
+          margin:0 auto;
+          margin-top:24px;
+        }
+        .path{
+          background: transparent;
+          margin-top:19px;
+        }
+        .path *{
+          stroke: #979797;
+        }
+        .path:hover *{
+          stroke: #19e1f2;
+        }
+        .arrow-icon{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width:53px;
+          height:53px;
+          border-radius: 27px;
+          background: rgb(210 69 158 / 20%);
+          margin-bottom:12px;
+        }
+        .arrow-icon:hover{
+          background: linear-gradient(134.2deg, #EA3498 -2.74%, #A6075E 95.67%);
+          box-shadow: 0px 0px 95.4494px #E33093;
+          border-radius: 27px;
+        }
+        .arrow-under-text{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 300;
+          font-size: 15px;
+          line-height: 23px;
+          letter-spacing: 0.14px;
+          text-align: center;
+          color:#ffffff;
+        }
+        .arrow-people{
+          display:flex;
+          flex-direction: column;
+          width:53px;
+        }
+        .horizontal-line{
+          height:82px;
+          width:1px;
+          opacity: 0.1;
+          border: 1px solid #FFFFFF;
+          background: #ffffff;
+        }
+        .score-graph{
+          background: url(../assets/images/profile-bg.svg) no-repeat bottom;
+          width:387px;
+          height:318px;
+          background-position-y: 0px;
+        }
+        .graph{
+          width:387px;
+          height:132px;
+          background: url(../assets/images/graph.svg);
+        }
+        .graph img{
+          margin: 58px 0px 0px 173px;
+        }
+        .profit-block{
+          background: linear-gradient(180deg, rgba(26, 34, 75, 0.0001) 0%, #130F24 97.66%);
+          border-radius: 4.75904px;
+          height: 187px;
+          width:387px;
+        }
+        .profit{
+          height: 16px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 15px;
+          line-height: 16px;
+          text-align: center;
+          letter-spacing: 2.85543px;
+          color: #FFFFFF;
+          opacity: 0.6;
+          margin-bottom:13px;
+        }
+        .button-show{
+          margin-top:18px;
+          text-align:center;
+        }
+        .button-show-plus{
+          position: relative;
+          bottom: 52px;
+          right: 57px;
+          font-family: "Nippo";
+          font-style: normal;
+          font-weight: 1000;
+          font-size: 26.5438px;
+          line-height: 30px;
+          transform: rotate(-24.97deg);
+          text-align: center;
+          letter-spacing: 0.954494px;
+          color: #1A224B;
+        }
+        
+        .button-show:hover .button-show-plus{
+          animation: rotate 5s linear 0s infinite; 
+        }
+        
+         @keyframes rotate {
+          0% {
+            transform: rotate(0deg);
+          }
+          100% {
+            transform: rotate(360deg);
+          }
+          }
+        .number-cards{
+          height: 107px;
+          margin-bottom: 10px;
+          display: flex;
+          flex-direction: row;
+          justify-content: space-between;
+          width:1204px;
+        }
+        .card{
+          width: 278px;
+          height: 107px;
+          background: linear-gradient(90deg, rgba(210, 70, 158, 0.166) 0.78%, rgba(75, 213, 207, 0.166) 100.02%);
+          mix-blend-mode: normal;
+          border-radius: 5px;
+        }
+        .card-all{
+          display:flex;
+          flex-direction: row;
+          justify-content: space-between;
+          margin:11px 11px 18px 21px;
+        }
+        // .card-all img{
+        //   opacity: 0.2;
+        // }
+        .card1-img{
+          width:27px;
+          height:51px;
+        }
+        .card2-img{
+          width:49px;
+          height:49px;
+        }
+        .card3-img{
+          width:53px;
+          height:45px;
+        }
+        .card4-img{
+          width:46px;
+          height:46px;
+        }
+        
+        .card-content{
+          height:63px;
+          margin-top:11px;
+        }
+        .card4-content{
+          display: flex;
+          flex-direction: row;
+          justify-content: space-between;
+        }
+        .card4-first{
+          margin-top:11px;
+        }
+        .card-text{
+          margin-bottom: 8px;
+          height: 18px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 16.8227px;
+          line-height: 107%;
+          letter-spacing: 3.15425px;
+          color: #FFFFFF;
+          opacity: 0.7;
+        }
+        .card-under-line{
+          width:130px;
+          height:2px;
+          background: #EA3498;
+          opacity: 0.4;
+          box-shadow: 0px -31.5425px 73.5992px 94.6276px rgba(234, 52, 151, 0.06);
+          margin-bottom:9px;
+        }
+        .card-under-line2{
+          width:98px;
+          height:2px;
+          background: #EA3498;
+          opacity: 0.4;
+          box-shadow: 0px -31.5425px 73.5992px 94.6276px rgba(234, 52, 151, 0.06);
+          margin-bottom:9px;
+        }
+        .card-count-block{
+          display:flex;
+          flex-direction: row;
+          justify-content: space-between;
+          height:26px;
+        }
+        .card-count-block2{
+          display:flex;
+          flex-direction: row;
+          align-items: flex-end;
+          height:26px;
+          font-family: "Nippo";
+          font-style: normal;
+          font-weight: 500;
+          font-size: 27px;
+          line-height: 25px;
+          letter-spacing: 0.15px;
+          color:#ffffff;
+        }
+        .card-count-block2 img{
+          width:162px;
+          height:8px;
+          opacity: 1;
+          margin-bottom: 3px;
+        }
+        .card-count{
+          position:relative;
+          height: 26px;
+          font-family: 'Nippo-B';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 27px;
+          line-height: 25px;
+          letter-spacing: 0.15px;
+          opacity: 0.8;
+        }
+        .card-count .id1{
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          color: #D2459E;
+          margin: -1px 1px 0px 0px;
+        }
+        .card-count .id2{
+          top: 0;
+          left: 0;
+          right: 0;
+          color: #17E3F3;
+          margin: 1px -1px 0px 0px;
+        }
+        .card-count .id3{
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          color: #FFFFFF;
+          margin:0;
+        }
+        .card-percent{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width:70px;
+          height:26px;
+          background: linear-gradient(135deg, #51C81C 0%, #48AF1B 100%);
+          border-radius: 5.25709px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 17px;
+          line-height: 17px;
+          color: #FFFFFF;
+          margin-left: 27px;
+        }
+        .card-percent2{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width:70px;
+          height:26px;
+          background: linear-gradient(135deg, #FC381D 0%, #DB2F18 100%);
+          border-radius: 5.25709px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 17px;
+          line-height: 17px;
+          color: #FFFFFF;
+          margin-left: 34px;
+        }
+        .card-under-line-selected{
+          display: none;
+          width:278px;
+          height:3px;
+          background: linear-gradient(90deg, rgba(210, 70, 158, 0.83) 0.78%, rgba(75, 213, 207, 0.83) 100.02%);
+          mix-blend-mode: normal;
+          opacity: 0.7;
+          border-radius: 5px 5px 0px 0px;
+        }
+        #binance{
+          margin-left: 32px;
+        }
+        .left-up-bl{
+          display: flex;
+          flex-direction: column;
+          justify-content: space-evenly;
+          width: 390px;
+          height: 211px;
+          background: linear-gradient(90deg, rgba(210, 70, 158, 0.2) 0.78%, rgba(75, 213, 207, 0.2) 100.02%);
+          border-radius: 4.75904px;
+          margin-bottom: 20px;
+        }
+        .left-right-s-c{
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          flex-wrap: nowrap;
+        }
+        .left-up-bl-up{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+        #left-up-bl-up-h1{
+          margin-right: 90px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 16.5174px;
+          line-height: 107%;
+          letter-spacing: 3.09701px;
+          color: #FFFFFF;
+          opacity: 0.7;
+          margin-right: 73px;
+          margin-left: 12px;
+        }
+        .left-up-bl-up-active
+        {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 57px;
+          height: 23px;
+          background: #EA3498;
+          box-shadow: 0px -30.9701px 72.2636px 92.9104px rgba(234, 52, 151, 0.06);
+          border-radius: 5.16169px;
+        }
+        .left-up-bl-up-active h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 12.3881px;
+          line-height: 12px;
+          text-align: center;
+          color: #FFFFFF;
+        }
+        .left-up-bl-check-up-block{
+          margin-bottom: 8px;
+          width: 53px;
+          height:  43px;
+          background: rgba(190 190 190 / 10%);
+          border-radius: 4.75904px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-right: 3px;
+        }
+        .left-up-bl-check{
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          margin-left: 20px;
+        }
+        .left-up-bl-check-up{
+          display: flex;
+          flex-wrap: wrap;
+          margin-left: 15px;
+        }
+        .left-up-bl-check-down{
+          display: flex;
+        
+        }
+        
+        .left-up-bl-check-up-block-enable{
+          width: 53px;
+          height: 45px;
+          background: linear-gradient(121.47deg, rgba(210 70 158 / 50%) 0%, rgba(75 213 207 / 50%) 106.69% ) ;
+          border-radius: 5.16169px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-right: 3px;
+        }
+        .check-box{
+          background: url(../assets/check.svg) center 0 no-repeat;
+          width: 26px;
+          height: 26px;
+          background-size: cover;
+        }
+        
+        .left-up-bl-check-up-block-plus{
+          width: 53px;
+          height: 45px;
+          background: linear-gradient(134.2deg, rgba(234 52 152 / 90%) -2.74%, rgba(166 7 94 / 90%) 95.67%);
+          border-radius: 5.16169px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-right: 3px;
+        }
+        .plus-box{
+          background: url(../assets/plus.svg) center 0 no-repeat;
+          width: 30px;
+          height: 30px;
+          background-size: cover;
+        }
+        .left-up-bl-check-up-block-plus:hover{
+          background: linear-gradient(134.2deg, #EA3498 -2.74%, #A6075E 95.67%);
+          box-shadow: 0px 0px 15.4494px #E33093;
+          border-radius: 5.16169px;
+        }
+        .left-down-bl-1{
+          width:385px;
+          height: 203px;
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          justify-content: flex-end;
+          border: 3.56135px solid rgba(255, 255, 255, 0.04);
+        }
+        .left-down-bl-down{
+          display: flex;
+          justify-content: flex-end;
+          align-items: center;
+        }
+        .left-down-bl{
+          top: -1px;
+          display: flex;
+          flex-direction: column;
+          justify-content: space-evenly;
+          width: 387px;
+          height: 203px;
+          background: linear-gradient(90deg, rgba(210, 70, 158, 20%) 0.78%, rgba(75, 213, 207, 20%) 100.02%);
+
+          border-radius: 4.75904px;
+        }
+        .left-down-bl-up{
+          margin-top: 20px;
+          margin-left: 32px;
+        }
+        .left-down-bl-up h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 16.5174px;
+          line-height: 107%;
+          letter-spacing: 3.09701px;
+          color: #FFFFFF;
+          opacity: 0.7;
+        }
+        #left-down-bl-down-left-h1{
+          margin-bottom: 10px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 13.4204px;
+          line-height: 15px;
+          display: flex;
+          align-items: flex-end;
+          letter-spacing: 0.958599px;
+          color: #FFFFFF;
+          opacity: 0.8;
+        }
+        #left-down-bl-down-left-h2{
+          margin-bottom: 10px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 70px;
+          height: 25px;
+          background: rgba(210 69 158 /20%);
+          mix-blend-mode: normal;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 16.5174px;
+          line-height: 17px;
+          color: #FFFFFF;
+          opacity: 0.9;
+        }
+        #left-down-bl-down-left-h3{
+          width: 81px;
+          margin-bottom: 10px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 13.4204px;
+          line-height: 15px;
+          display: flex;
+          align-items: flex-end;
+          letter-spacing: 0.958599px;
+          color: #FFFFFF;
+          opacity: 0.8;
+        }
+        #left-down-bl-down-left-h4{
+          margin-bottom: 10px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 70px;
+          height: 25px;
+          background: rgba(210 69 158 /20%);
+          mix-blend-mode: normal;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 16.5174px;
+          line-height: 17px;
+          color: #FFFFFF;
+          opacity: 0.9;
+        }
+        .left-down-bl-down-left{
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          margin-left: 25px;
+        }
+        .left-down-bl-down-right-car{
+          margin-left: -15px;
+
+          width: 285px;
+          height: 190px;
+          background: url(../assets/car.svg) center 0 no-repeat;
+        }
+        .left-down-bl-down-line{
+          width: 391px;
+          height: 7.23px;
+          background: #EA3498;
+          box-shadow: 0px -30.9701px 72.2636px 92.9104px rgba(234, 52, 151, 0.06);
+          border-radius: 5.16169px;
+        
+        }
+        #car-information{
+          margin-top: 0px;
+          margin-bottom: 10px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 300;
+          font-size: 15.2289px;
+          line-height: 21px;
+          letter-spacing: 1.90362px;
+          color: #FFFFFF;
+          opacity: 0.8;
+        }
+        .dashboard{
+          margin-bottom: 25px;
+          margin-top: 16px;
+          display:flex;
+          flex-direction: row;
+          justify-content: space-between;
+          height:76px;
+          width:1204px;
+        }
+        .dashboard-title{
+          position: relative;
+          width:659px;
+          height: 26px;
+          font-family: "Sportypo";
+          font-style: normal;
+          font-weight: 500;
+          font-size: 76px;
+          line-height: 71px;
+          color: #FFFFFF;
+          opacity: 0.9;
+          text-shadow: 0px 28.5543px 76.1448px rgba(214, 50, 143, 0.47);
+        }
+        .dashboard-title .id1{
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          color: #D2459E;
+          margin: -3px 3px 0px 0px;
+        }
+        .dashboard-title .id2{
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          color: #17E3F3;
+          margin: 3px -3px 0px 0px;
+        }
+        .dashboard-title .id3{
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          color: #FFFFFF;
+          margin:0;
+        }
+        .personal-link{
+          width: 278px;
+          height: 88px;
+          background: rgb(190, 190, 190, 0.05);
+          border-radius: 4.75905px;
+        }
+        .pesonal-link-content{
+          margin:16px 18px 15px 17px;
+        }
+        .personal-link-title{
+          height: 16px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 15px;
+          line-height: 107%;
+          letter-spacing: 2.85543px;
+          color: #FFFFFF;
+          opacity: 0.6;
+          margin-bottom: 11px;
+        }
+        .link-lower-panel{
+          display:flex;
+          flex-direction: row;
+          align-items: flex-start;
+        }
+        .link-line{
+          display:flex;
+          flex-direction: column;
+        }
+        .link-purple-line{
+          width: 96px;
+          height: 2px;
+          background: #EA3498;
+          opacity: 0.4;
+          box-shadow: 0px -28.5543px 66.6267px 85.6629px rgba(234, 52, 151, 0.06);
+          margin-bottom: 3px;
+        }
+        .link-text{
+          width: 96px;
+          height: 21px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 378;
+          font-size: 15.2289px;
+          line-height: 21px;
+          text-align: center;
+          color: #FFFFFF;
+          opacity: 0.8;
+        }
+        .link-img1{
+          margin-left:17px;
+          width:88px;
+          height:30px;
+          margin-right:8px;
+        }
+        .link-img2{
+          width:32px;
+          height:30px;
+        }
+        .r-c-obs{
+          display: flex;
+          align-items: center;
+        }
+        .drid{
+          background: url(../assets/dridik.svg)center 0 no-repeat;
+          width: 121px;
+          height: 147px;
+          z-index: 5;
+          position: relative;
+          bottom: 40px;
+          right: 75px;
+        }
+        .circle-1{
+          background: url(../assets/circle-d-1.png)center 0 no-repeat;
+          width: 115px;
+          height: 114px;
+          z-index: 4;
+          position: relative;
+          bottom: -38px;
+          right: -30px;
+        }
+        .circle-2{
+          background: url(../assets/circle-d-3.png)center 0 no-repeat;
+          width: 166px;
+          background-size: cover;
+          height: 151px;
+          z-index: 3;
+          position: relative;
+          bottom: -8px;
+          right: -37px;
+        }
+        .circle-3{
+          background: url(../assets/circle-d-3.png)center 0 no-repeat;
+          width: 166px;
+          background-size: cover;
+          height: 166px;
+          z-index: 2;
+          position: relative;
+          bottom: 3px;
+          right: 165px;
+        }
+        .car{
+            display:flex;
+            flex-direction: column;
+            align-items: center;
+            width:794px;
+            height:436px;
+            box-sizing: border-box;
+            background: linear-gradient(90deg, rgba(210, 70, 158, 0.166) 0.78%, rgba(75, 213, 207, 0.166) 100.02%);
+            mix-blend-mode: normal;
+            border-radius: 5.24558px;
+          }
+          .car-upper-block{
+            display:flex;
+            flex-direction: row;
+            align-items: center;
+            width:708px;
+            height:44px;
+            background: linear-gradient(90deg, rgba(210, 70, 158, 0.166) 0.78%, rgba(75, 213, 207, 0.166) 100.02%);
+            mix-blend-mode: normal;
+            border-radius: 5.24558px;
+            margin-top:17px;
+          }
+          .car-slider{
+            width: 235px;
+            height: 17px;
+            background: url(../assets/images/car-slider.svg) center center no-repeat;
+          }
+        
+        
+          
+          .car-slider-limit{
+            height: 19px;
+            font-family: 'Nippo';
+            font-style: normal;
+            font-weight: 200;
+            font-size: 16.7859px;
+            line-height: 107%;
+            text-align: center;
+            letter-spacing: 3.14735px;
+            color: #FFFFFF;
+            opacity: 0.6;
+            margin-left:6px;
+            margin-right:12px;
+          }
+          .car-slider-point{
+            display:flex;
+            justify-content: center;
+            align-items: center;
+            width:26px;
+            height:17px;
+            background: linear-gradient(134.2deg, #EA3498 -2.74%, #A6075E 95.67%);
+            box-shadow: 0px 0px 52.4558px #E33093;
+            border-radius: 5.24558px;
+            margin-left:149px;
+          }
+          .car-slider-point div{
+            width:9px;
+            font-family: 'Nippo';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 14.4116px;
+            line-height: 107%;
+            text-align: center;
+            letter-spacing: 3.14735px;
+            color: #FFFFFF;
+            opacity: 0.6;
+          }
+          .car-img1{
+            width:24px;
+            height:18px;
+            margin-left:28px;
+          }
+          .car-img2{
+            width: 97px;
+            height: 32px;
+            margin-left:35px;
+            margin-right: 15px;
+          }
+          .car-img3{
+            width:20px;
+            height:50px;
+            margin-top:9px;
+            margin-right:25px;
+          }
+          .car-img4{
+            height:78px;
+            width:4px;
+            margin-right:25px;
+            margin-top:9px;
+          }
+          .car-img5{
+            margin-right: 20px;
+            margin-top: 60px;
+          }
+          .car-tesla-text{
+            width: 115px;
+            height: 16px;
+            font-family: 'Nippo-B';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 13.6385px;
+            line-height: 16px;
+            letter-spacing: 0.97418px;
+            color: #FFFFFF;
+            opacity: 0.9;
+            margin-left:11px;
+            margin-right:9px;
+          }
+          .car-tesla-text2{
+            width: 52px;
+            height: 13px;
+            font-family: 'Nippo';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 13.64px;
+            line-height: 13px;
+            color: #FFFFFF;
+            opacity: 0.4;
+            margin-right:29px;
+          }
+          .car-center-block{
+            display:flex;
+            flex-direction: row;
+            justify-content: space-between;
+            width:708px;
+            margin-top:12px;
+          }
+          .car-parameters{
+            display:flex;
+            flex-direction: column;
+            justify-content: space-between;
+            height:319px;
+            margin-top:20px;
+          }
+          .car-parameter{
+            width:165px;
+            height:140px;
+            background: linear-gradient(90deg, rgba(210, 70, 158, 0.166) 0.78%, rgba(75, 213, 207, 0.166) 100.02%);
+            mix-blend-mode: normal;
+            border-radius: 5.24558px;
+          }
+          .car-parameter-content{
+            margin:25px 0 auto 24px;
+          }
+          .car-parameter-content2{
+            margin:24px 36px 25px 23px;
+          }
+          .car-parameter-content-column{
+            display:flex;
+            flex-direction: column;
+          }
+          #car-content2{
+            display:flex;
+            flex-direction: row;
+            justify-content: space-between;
+          }
+          .car-parameter-title{
+            height: 16px;
+            font-family: 'Nippo';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 13.6385px;
+            line-height: 16px;
+            letter-spacing: 0.97418px;
+            color: #FFFFFF;
+            mix-blend-mode: normal;
+            opacity: 0.6;
+            margin-bottom:13px;
+          }
+          .car-parameter-value{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: flex-start;
+          }
+          .car-parameter-value2{
+            display:flex;
+            flex-direction: column;
+          }
+          .car-parameter-value-content{
+            display:flex;
+            align-items: center;
+          }
+          #car-value-content{
+            align-items: flex-start;
+          }
+          .car-parameter-value-text1{
+            width: 59px;
+            height: 42px;
+            font-family: 'Nippo';
+            font-style: normal;
+            font-weight: 300;
+            font-size: 50.3576px;
+            line-height: 42px;
+            color: #ffffff;
+          }
+          .car-parameter-value-text2{
+            height: 15px;
+            font-family: 'Nippo';
+            font-style: normal;
+            font-weight: 300;
+            font-size: 15px;
+            line-height: 15px;
+            text-align: center;
+            color: #FFFFFF;
+          }
+          .car-parameter-value-text3{
+            height: 28px;
+            font-family: 'Nippo';
+            font-style: normal;
+            font-weight: 300;
+            font-size: 27px;
+            line-height: 27px;
+            letter-spacing: 0.524558px;
+            color: #FFFFFF;
+            margin-right:5px;
+          }
+          #car-text2{
+            margin-top: 3px;
+            margin-left: 2px;
+          }
+          #parameter-text3{
+            width:36px;
+          }
+          .car-radio{
+            display:flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-between;
+          }
+          .car-radio-text{
+            font-family: 'Nippo';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 14.6876px;
+            line-height: 34px;
+            letter-spacing: 0.564909px;
+            color: #FFFFFF;
+            opacity: 0.9;
+          }
+          .car-radio-button{
+            display: flex;
+            align-items: center;
+            width:27px;
+            height:17px;
+            background: linear-gradient(90deg, rgba(210, 70, 158, 0.415) 0.78%, rgba(75, 213, 207, 0.415) 100.02%);
+            mix-blend-mode: normal;
+            border-radius: 104.912px;
+          
+          }
+          #car-button1{
+            justify-content: flex-end;
+          }
+          .car-radio-check{
+            width:15px;
+            height:15px;
+            background: linear-gradient(134.2deg, #EA3498 -2.74%, #A6075E 95.67%);
+            opacity: 0.9;
+            box-shadow: 0px 0px 52.4558px #E33093;
+            border-radius: 8px;
+            margin:1px;
+          }
+          .car-big{
+            width:290px;
+            height:368px;
+            background: url(../assets/circle-d-4.png) center center no-repeat;
+            background-size: 290px;
+            background-position-y: 38px;
+          }
+          .car-big-content{
+            width:290px;
+            height:368px;
+            background: url(../assets/carcik.svg) center center no-repeat;
+        
+          }
+          .car-big-up{
+            display:flex;
+            justify-content: center;
+            align-items: center;
+            width:290px;
+          }
+          .car-big-up img{
+            width:34px;
+            margin-top:38px;
+          }
+          .car-big-center{
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-direction: row;
+            margin:0 auto;
+            width:238px;
+            margin-top:78px;
+          }
+          .car-big-center img{
+            width:34px;
+          }
+          #locked{
+            height: 34px;
+            width: 34px;
+            background: url(../assets/images/big-car-locked.svg);
+          }
+          #locked:hover{
+            background: url(../assets/images/big-car-unlocked.svg);
+            width:34px;
+            height:34px;
+          }
+          .locked-down{
+            margin-top: 88px;
+          }
+        .down-c-s{
+          display: flex;
+        }
+        .card-over{
+          height: 135px;
+          display: flex;
+          flex-direction: column;
+        }
+        .card-over:hover .card-under-line-selected{
+          display: flex;
+        }
+        .car-control{
+          width: 29px;
+          height: 70px;
+          margin-right: 15px;
+        }
+        .car-control-up{
+          width: 20px;
+          height: 20px;
+          margin-top: 13px;
+          margin-bottom: 5px;
+        }
+        .car-control-down{
+          width: 20px;
+          height: 20px;
+        }
+        .car-control-up:hover *{
+          opacity: 1;
+          fill: white
+        }
+        .car-control-down:hover *{
+          opacity: 1;
+          fill: white
+        }
+        
+        
+        
+        .knobs,
+        .layer {
+          position: absolute;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          left: 0;
+        }
+        
+        .button {
+          position: relative;
+          overflow: hidden;
+        }
+        
+        .button.r .layer {
+          border-radius: 100px;
+        }
+        
+        .button.b2 {
+          border-radius: 2px;
+        }
+        
+        .checkbox {
+          position: relative;
+          width: 28px;
+          height: 17px;
+          padding: 0;
+          margin: 0;
+          opacity: 0;
+          cursor: pointer;
+          z-index: 3;
+        }
+        
+        .knobs {
+          z-index: 2;
+        }
+        
+        .layer {
+          width: 28px;
+          height: 17px;
+          background: linear-gradient(90deg, rgba(210, 70, 158, 0.415) 0.78%, rgba(75, 213, 207, 0.415) 100.02%);
+          mix-blend-mode: normal;
+          border-radius: 104.912px;
+          transition: 0.3s ease all;
+          z-index: 1;
+        }
+        
+        #button-1 .knobs:before {
+          content: "";
+            position: absolute;
+            text-align: center;
+            line-height: 1;
+            top: 1px;
+            left: 2px;
+            width: 15px;
+            height: 15px;
+            background: linear-gradient(134.2deg, #EA3498 -2.74%, #A6075E 95.67%);
+            opacity: 0.9;
+            box-shadow: 0px 0px 52.4558px #e33093;
+            border-radius: 50%;
+            transition: 0.3s cubic-bezier(0.18, 0.89, 0.35, 1.15) all;
+        }
+        
+        #button-1 .checkbox:checked + .knobs:before {
+          content: "";
+          left: 11px;
+        }
+        
+        #button-1 .knobs,
+        #button-1 .knobs:before,
+        #button-1 .layer {
+          transition: 0.3s ease all;
+        }
+        
+        
+  }
+  @media only screen and (min-width: 2559px) and (min-height:1440px) {
+      body{
+          line-height: 1;
+          background: #0B0C1D url(../assets/media/bg4k.svg) center 0 no-repeat;
+          width: 100%;
+          height: 100%;
+          background-size: cover;
+      }
+      .left-down-bl-up{
+        margin-left: 41px;
+      }
+      #car-text2{
+        margin-top: 10px;
+        margin-left: 2px;
+      }
+      .driiidik{
+        margin-left: -217px;
+        width: 244px;
+        height: 195px;
+      }
+      header{
+        height: 158.15px;
+        width: 2194.78px;
+        margin:0 auto;
+        margin-top:20px;
+      }
+      footer{
+        margin: 20px auto;
+          height: 174.15px;
+          width: 2194.78px; 
+      }
+      .card-prime-img{
+        background-size: 260px;
+        width: 250px;
+        height: 165px;
+        background-position-y: -32px;
+        margin-left: 85px;
+      }
+      .card-prime{
+        margin-left:-50px;
+      }
+      .center{
+          width: 2194.78px;
+          margin-top:26px;
+      }
+      .menu-open{
+          width: 42px;
+          height: 19px;
+      }
+      #card-prime-img{
+          width: 225px;
+          height: 210px;
+      
+      }
+      .card-prime h1{
+          width: 183px;
+          height: 44px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 20.9795px;
+          line-height: 107%;
+          letter-spacing: 4.84143px;
+          color: #FFFFFF;
+          opacity: 0.6;
+      }
+      .smart-sc{
+          width: 278px;
+          height: 50px;
+          background-size: cover;
+      }
+      .smart-b{
+          width: 32px;
+          height: 38px;
+      }
+      .smart-sc h1 {
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 378;
+          font-size: 20.9795px;
+          line-height: 28px;
+          text-align: center;
+          color: #FFFFFF;
+          opacity: 0.8;
+      }
+      .money{
+          background-size: cover;
+          width: 355px;
+          height: 64px;
+      }
+      .wallet{
+          width: 30px;
+          height: 28px;
+      }
+      .money h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 20.9795px;
+          line-height: 28px;
+          text-align: center;
+          color: #FFFFFF;
+          opacity: 0.8;
+      }
+      .string{
+          width: 1.29px;
+          height: 27.99px;
+      }
+      .user-name{
+          width: 159px;
+      }
+      .user-name h1 {
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 378;
+          font-size: 20.9795px;
+          line-height: 28px;
+          text-align: center;
+          color: #FFFFFF;
+          opacity: 0.8;
+      }
+      .user-pr{
+          width: 69px;
+          height: 69px;
+      }
+      .user-q{
+          width: 43px;
+          height: 43px;
+          margin: 13px 47px;
+      }
+      .search{
+          background-size: cover;
+          width: 31px;
+          height: 31px;
+      }
+      .pre-footer h1 {
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 20.9795px;
+          line-height: 107%;
+          text-align: center;
+          letter-spacing: 3.22762px;
+          color: #FFFFFF;
+          opacity: 0.6;
+          margin-top: -15px;
+      }
+      .footer-section{
+          height: 190px;
+          margin-top: 15px;
+      }
+      .left-footer{
+          width: 248.53px;
+          height: 148.47px;
+      }
+      .left-footer h1{
+          width: 194px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 20.9795px;
+          line-height: 107%;
+          /* or 22px */
+
+          text-align: center;
+          letter-spacing: 3.22762px;
+
+          color: #FFFFFF;
+
+          opacity: 0.6;
+      }
+      .footer-line{
+          width: 62.94px;
+          height: 3.23px;
+          margin-top: 12px;
+      }
+      .dis-f{
+          height: 37.117671966552734px;
+          width: 33.89004135131836px;
+      }
+      .telega-f{
+          margin-left: 17px;
+          height: 37.117671966552734px;
+          width: 37.117671966552734px;
+      }
+      .footer-position{
+          width: 201.73px;
+          height: 148.47px;
+          margin-right: 12px;
+      }
+      .line-f{
+
+          width: 169.45px;
+          height: 122.65px;
+      }
+      .word-ic{
+          background-size: cover;
+          height: 42.67968px;
+          width: 42.310757px;
+        }
+        .partner-ic{
+          background-size: cover;
+          height: 49.67968px;
+          width: 52.310757px;
+        }
+        .stat-ic{
+          background-size: cover;
+          height: 49.67968px;
+          width: 52.310757px;
+        }
+        .info-ic{
+          background-size: cover;
+          height: 49.67968px;
+          width: 52.310757px;
+        }
+        .telega-ic{
+          background-size: cover;
+          height: 49.67968px;
+          width: 52.310757px;
+        }
+        .promo-ic{
+          background-size: cover;
+          height: 49.67968px;
+          width: 52.310757px;
+        }
+        .news-ic{
+          background-size: cover;
+          height: 49.67968px;
+          width: 52.310757px;
+        }
+        .line-f h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 20.9795px;
+          line-height: 28px;
+          text-align: center;
+          color: #FFFFFF;
+          opacity: 0.6;  
+      }
+      .chatik{
+          height: 148px;
+          align-items: flex-start;
+          width: 348px;
+      }
+      .chat-ic{
+          width: 45px;
+          height: 45px;
+      }
+      .chatik h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 20.9795px;
+          line-height: 28px;
+          text-align: center;
+
+          color: #FFFFFF;
+
+          opacity: 0.6;
+      }
+      .footer-down-line{
+          height: 9.68px;
+          width: 207.73px;
+      }
+      .footer-block{
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          justify-content: flex-end;
+      }
+      .profile{
+        margin-right: 20px;
+          height: 977.9697265625px;
+          width: 524.48876953125px;
+      }
+      .profile-icon img{
+          height: 222.78005981445312px;
+          width: 222.7059326171875px;
+      }
+      .profile-icon{
+          height: 175px;
+          width: 213px;
+          margin: 31px auto;
+      }
+      .card-count2{
+          
+          font-style: normal;
+          font-weight: 500;
+          font-size: 37.1177px;
+          line-height: 34px;
+          /* identical to box height, or 91% */
+          
+          
+          color: #FFFFFF;
+          
+          opacity: 0.8;
+      }
+      #pr-id{
+        font-family: 'Nippo-B';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 33.89px;
+        line-height: 31px;
+        /* or 90% */
+        margin: 27px auto 11px auto;
+        text-align: center;
+
+        color: #FFFFFF;
+
+        opacity: 0.9;
+      }
+      .profile-id{
+          font-family: 'Nippo-B';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 33.89px;
+          line-height: 31px;
+          /* or 90% */
+          margin: 80px auto 11px auto;
+          text-align: center;
+
+          color: #FFFFFF;
+
+          opacity: 0.9;
+      }
+      .wallet-id{
+          margin-top: 27px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 20.9795px;
+          line-height: 28px;
+          text-align: center;
+
+          color: #FFFFFF;
+
+          opacity: 0.6;
+      }
+      .wallet-id img{
+          height: 19.372177124023438px;
+          width: 20.710243225097656px;
+      }
+      .arrow-icon{
+          width: 74px;
+          height: 74px;
+          border-radius: 37px;
+      }
+      .arrow-icon img{
+          width: 32px;
+          height: 27px;
+      }
+      .arrow-icon:hover{
+          background: linear-gradient(134.2deg, #EA3498 -2.74%, #A6075E 95.67%);
+          box-shadow: 0px 0px 95.4494px #E33093;
+          border-radius: 37px;
+        }
+      .arrows-menu{
+          width: 470px;
+      }
+      .horizontal-line{
+          height: 111.35301971435547px;
+          width: 1.6138116121292114px;
+      }
+      .path{
+          margin-top: 25px;
+          height: 20.979551315307617px;
+          width: 20.979551315307617px;
+      }
+      .score-graph{
+          width: 525px;
+          height: 445px;
+          margin-top:42px;
+          background-position-y: 0px;
+          background-size: cover;
+          background: url(../assets/images/profile-bg-2k.svg) center center no-repeat;
+      }
+      .graph img{
+          margin: 92px 0px 0px 173px;
+      }
+      .graph{
+          width: 528px;
+          height: 209px;
+          background: url(../assets/images/graph.svg);
+          background-repeat: no-repeat;
+          background-position-x: -1px;
+          background-size: 525px;
+          background-position-y: 5px;
+      }
+      .profit-block{
+          height: 232px;
+          width:525px;
+      }
+      .profit{
+          left: 0;
+          right: 0;
+          bottom: 0;
+          position: relative;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 20.9795px;
+          line-height: 107%;
+          text-align: center;
+          letter-spacing: 3.22762px;
+          color: #FFFFFF;
+          opacity: 0.6;
+      }
+      .button-show-svg{
+          height: 111.03132629394531px;
+          width: 337.28656005859375px;
+
+      }
+      .button-show-plus{
+          bottom: 77px;
+          right: 77px;
+          font-size: 36.5438px;
+      }
+      .r-c-s{
+          width: 1670px;
+          margin-left: 10px;
+          height: 984.67px;
+          margin-top:15px;
+      }
+      .dashboard{
+          width: 1640px;
+          height: 119.42px;
+      }
+      .dashboard-title{
+          font-family: 'Sportypo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 96.8287px;
+          line-height: 97px;
+          /* or 100% */
+          
+          
+          color: #FFFFFF;
+          
+          opacity: 0.9;
+          text-shadow: 0px 38.8178px 103.514px rgba(214, 50, 143, 0.47);
+      }
+      .personal-link{
+          width: 377px;
+          height: 119px;
+          border-radius: 6.75905px;
+      }
+      .personal-link-title{
+          margin-top: 20px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 20.9795px;
+          line-height: 107%;
+          /* or 22px */
+
+          letter-spacing: 3.22762px;
+
+          color: #FFFFFF;
+
+          opacity: 0.6;
+      }
+      .link-text{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 378;
+          font-size: 20.9795px;
+          line-height: 28px;
+
+          color: #FFFFFF;
+
+          opacity: 0.8;
+      }
+      .link-lower-panel{
+          margin-top: 20px;
+      }
+      .link-img1{
+          height: 40.34528732299805px;
+          width: 119.42205047607422px;
+          background: linear-gradient(101.44deg, #19E1F2 14.32%, #6CE7DD 98.22%);
+          border-radius: 6.45525px;
+          margin-left: 50px;
+          margin-right: 25px;
+      }
+      .link-img2{
+          height: 40.34528732299805px;
+          width: 43.572914123535156px;
+          background: linear-gradient(101.44deg, #19E1F2 14.32%, #6CE7DD 98.22%);
+          border-radius: 6.45525px;
+      }
+      .card{
+          height: 145.24302673339844px;
+          width: 377.63189697265625px;
+          border-radius: 6.45525px;
+      }
+      .card-count{
+          font-family: 'Nippo-B';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 37.1177px;
+          line-height: 34px;
+          /* identical to box height, or 91% */
+
+
+          color: #FFFFFF;
+
+          opacity: 0.8;
+      }
+      .number-cards{
+          width: 1640px;
+          height: 150px;
+      }
+      .card-text{
+          margin-bottom: 18px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 22.5934px;
+          line-height: 107%;
+          /* or 24px */
+
+          letter-spacing: 4.84143px;
+
+          color: #FFFFFF;
+
+          opacity: 0.7;
+      }
+      .card-percent{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 96px;
+          height: 33px;
+          background: linear-gradient(135deg, #51C81C 0%, #48AF1B 100%);
+          border-radius: 6.45525px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 22.5934px;
+          line-height: 23px;
+          color: #FFFFFF;            
+          margin-left: 27px;
+      }
+      .card-under-line{
+          height: 3.227623224258423px;
+          width: 164.60877990722656px;
+      }
+      .card-percent2{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 33.89004135131836px;
+          width: 96.82869720458984px;    
+          background: linear-gradient(135deg, #FC381D 0%, #DB2F18 100%);
+          border-radius: 6.45525px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 22.5934px;
+          line-height: 23px;
+          color: #FFFFFF;
+          margin-left: 34px;
+      }
+      .card1-img{
+          width:39px;
+          height:71px;
+        }
+        .card2-img{
+          width:69px;
+          height:69px;
+        }
+        .card3-img{
+          width:73px;
+          height:63px;
+        }
+        .card4-img{
+          width:66px;
+          height:66px;
+      }
+      .card-under-line2{
+          height: 3.227623224258423px;
+          width: 132.33255004882812px;
+          background: #EA3498;
+          opacity: 0.4;
+          box-shadow: 0px -42.8801px 100.054px 128.64px rgba(234, 52, 151, 0.06);
+      }
+      .card-count-block2{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 37.1177px;
+          line-height: 34px;
+          /* identical to box height, or 91% */
+
+
+          color: #FFFFFF;
+
+          opacity: 0.8;
+      }
+      .card-count-block2 img{
+          width: 275px;
+          height: 12px;
+      }
+      #car-information{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 300;
+          font-size: 20.7028px;
+          line-height: 28px;
+          /* identical to box height */
+
+          letter-spacing: 2.58785px;
+
+          color: #FFFFFF;
+
+          opacity: 0.8;
+      }
+      .card-under-line-selected{
+          position: relative;
+          bottom: 6px;
+          height: 4.841435432434082px;
+          width: 377.63189697265625px;    
+          opacity: 0.7;
+          background: linear-gradient(90deg, rgba(210, 70, 158, 0.83) 0.78%, rgba(75, 213, 207, 0.83) 100.02%);
+          mix-blend-mode: normal;
+          border-radius: 4.84143px;
+      }
+      .left-up-bl{
+          display: flex;
+          flex-direction: column;
+          justify-content: space-evenly;
+          height: 285.64459228515625px;
+          width: 524.48876953125px;
+          background: linear-gradient(90deg, rgba(210, 70, 158, 0.2) 0.78%, rgba(75, 213, 207, 0.2) 100.02%);
+          margin-bottom: 30px;
+          mix-blend-mode: normal;
+          border-radius: 6.45525px;
+      }
+      .left-down-bl-1{
+          width: 524px;
+          height: 283.644592px;
+          border-radius: 6.45525px;
+      }
+      .card-over:hover .card-under-line-selected{
+          display: flex;
+      }
+      .left-down-bl{
+          display: flex;
+          flex-direction: column;
+          justify-content: space-evenly;
+          height: 283.644592px;
+          width: 526.48877px; 
+          background: linear-gradient(90deg, rgba(210, 70, 158, 20%) 0.78%, rgba(75, 213, 207, 20%) 100.02%);
+          border-radius: 6.45525px;
+      }
+      #left-up-bl-up-h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 22.5934px;
+          line-height: 107%;
+          /* or 24px */
+
+          letter-spacing: 4.84143px;
+
+          color: #FFFFFF;
+          margin-left: -5px;
+          margin-right: 73px;
+          opacity: 0.7;
+      }
+      .left-up-bl-up-active{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 30.66242027282715px;
+          width: 75.8491439819336px;
+          background: #EA3498;
+          box-shadow: 0px -42.1019px 98.2379px 126.306px rgba(234, 52, 151, 0.06);
+          border-radius: 6.45525px;
+      }
+      .left-up-bl-up-active h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 16.1381px;
+          line-height: 16px;
+          /* or 100% */
+
+          text-align: center;
+
+          color: #FFFFFF;
+      }
+      #binance{
+          margin-left: 37px;
+      }
+      .left-up-bl-check-up-block{
+          height: 58.09721755981445px;
+          width: 71.00770568847656px;    
+          margin-right: 4px;
+      }
+      .left-up-bl-check-up-block-enable{
+        height: 61.097218px;
+        width: 71.007706px;    
+        margin-right: 4px;
+      }
+      .left-up-bl-check-up-block-plus{
+        height: 61.097218px;
+        width: 71.007706px;
+        margin-right: 4px;   
+      }
+      .plus-box{
+          width: 40px;
+          height: 40px;
+      }
+      .left-down-bl-up h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 22.5934px;
+          line-height: 107%;
+          /* or 24px */
+
+          letter-spacing: 4.84143px;
+
+          color: #FFFFFF;
+
+          opacity: 0.7;
+      }
+      #left-down-bl-down-left-h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 17.7519px;
+          line-height: 21px;
+          /* or 118% */
+          
+          display: flex;
+          align-items: flex-end;
+          letter-spacing: 1.61381px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.8;
+      }
+      #left-down-bl-down-left-h2{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 22.5934px;
+          line-height: 23px;
+          /* identical to box height, or 100% */
+          height: 35.50385284423828px;
+          width: 93.60106658935547px;
+
+          
+
+          color: #FFFFFF;
+
+          opacity: 0.9;
+      }
+      #left-down-bl-down-left-h3{
+          width: 106px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 17.7519px;
+          line-height: 21px;
+          /* or 118% */
+
+          display: flex;
+          align-items: flex-end;
+          letter-spacing: 1.61381px;
+
+          color: #FFFFFF;
+
+          opacity: 0.8;
+      }
+      #left-down-bl-down-left-h4{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 22.5934px;
+          line-height: 23px;
+          /* identical to box height, or 100% */
+          height: 35.50385284423828px;
+          width: 93.60106658935547px;
+
+          color: #FFFFFF;
+
+          opacity: 0.9;
+      }
+      .left-down-bl-down-right-car{
+        margin-left: -15px;
+      width: 395px;
+      height: 220px;
+      background-size: cover;
+      }
+      .left-down-bl-down-line{
+          width: 530px;
+      }
+      .left-down-left-bl{
+        height: 600.337890625px;
+        width: 1080.253662px;
+        border-radius: 4px;
+        margin-left: 20px;
+        border-radius: 5.24558px;
+        margin-left: 22px;
+      }
+      .car{
+          height: 600.337890625px;
+          width: 1081.253662109375px;
+
+      }
+      .car-upper-block{
+          height: 59.71102523803711px;
+          width: 963.4454345703125px;
+      }
+      .car-center-block{
+          margin-top: 30px;
+          width: 963.4454345703125px;
+      }
+      .car-parameter{
+          height: 190.42974853515625px;
+          width: 224.31980895996094px;
+      }
+      .car-parameters{
+        margin-top: 38px;
+          height: 430px;
+      }
+      .car-big{
+          height: 442.721436px;
+          width: 364.721435546875px;
+          background-size: 364.721435546875px;
+      }
+      .car-big-content{
+          height: 512.721436px;
+          width: 335.721436px;
+          margin-left: 16px;
+          background-size: cover;
+      }
+      .car-parameter-title{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 17.7519px;
+          line-height: 21px;
+          /* identical to box height, or 118% */
+
+          letter-spacing: 1.61381px;
+
+          color: #FFFFFF;
+
+          mix-blend-mode: normal;
+          opacity: 0.6;
+      }
+      .car-parameter-value-text1{
+          margin-top: 12px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 300;
+          font-size: 67.7801px;
+          line-height: 56px;
+          /* identical to box height, or 83% */
+
+
+          color: #ffffff;
+      }
+      .car-parameter-value-text2{
+        margin-top: 10px;
+        margin-left: 20px;
+          height: 15px;
+          font-family: "Nippo";
+          font-style: normal;
+          font-weight: 300;
+          font-size: 19.3657px;
+          line-height: 19px;
+          text-align: center;
+          color: #FFFFFF;
+      }
+      #percent{
+        margin-left: 20px;
+        margin-top: 25px;
+      }
+      .car-parameter-value-content{
+          margin-bottom: 20px;
+      }
+      .car-control{
+          margin-top: 25px;
+      }
+      .car-control-up{
+          width: 29px;
+          height: 29px;
+      }
+      .car-control-down{
+          width: 29px;
+          height: 29px;
+      }
+      #locked{
+          width: 47px;
+          height: 47px;
+          background-repeat: no-repeat;
+          background-size: cover;
+      }
+      #locked:hover{
+          width: 47px;
+          height: 47px;
+          background: url(../assets/images/big-car-unlocked.svg);
+          background-repeat: no-repeat;
+          background-size: cover;
+        }
+        .car-big-up{
+          width: 330px;
+        }
+        .car-big-center{
+          width: 313px;
+          margin-top: 87px;
+        }
+        .locked-down{
+          margin-top: 155px;
+        }
+        .car-radio-text{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 19.3657px;
+          line-height: 45px;
+          /* identical to box height, or 233% */
+
+
+          color: #FFFFFF;
+
+          opacity: 0.9;
+        }
+        .checkbox{
+          width: 38px;
+          height: 21px;
+        }
+        #button-1 .checkbox:checked + .knobs:before{
+          left: 16px;
+        }
+        #button-1 .knobs:before{
+          width: 20px;
+          height: 20px;
+        }
+        .layer{
+          width: 37px;
+          height: 24px;
+        }
+        .car-img5{
+          width: 40px;
+          margin-top: 83px;
+        }
+        .car-parameter-content{
+          margin: 23px 0 auto 37px;
+        }
+        .car-parameter-value-text3{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 300;
+          font-size: 42.708px;
+          line-height: 55px;
+          /* identical to box height, or 100% */
+
+          letter-spacing: 1.05208px;
+
+          color: #FFFFFF;
+        }
+        .car-img1{
+          width: 35px;
+          height: 35px;
+          margin-left: 38px;
+        }
+        .car-tesla-text{
+          margin-left: 15px;
+          margin-right: 16px;
+          width: 140px;
+          font-family: 'Nippo-B';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 17.7519px;
+          line-height: 21px;
+          /* identical to box height, or 118% */
+
+          display: flex;
+          align-items: flex-end;
+          letter-spacing: 1.61381px;
+
+          color: #FFFFFF;
+
+          opacity: 0.9;
+        }
+        .car-tesla-text2{
+          margin-right: 49px;
+          width: 60px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 17.7519px;
+          line-height: 18px;
+          color: #FFFFFF;
+          mix-blend-mode: normal;
+          opacity: 0.4;
+        }
+        .car-slider-limit{
+          margin-left: 6px;
+          margin-right: 22px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 22.5934px;
+          line-height: 107%;
+          text-align: center;
+          letter-spacing: 4.84143px;
+
+          color: #FFFFFF;
+
+          opacity: 0.6;
+        }
+        #typeinp{
+          margin-bottom: 7px;
+        }
+        .car-img2{
+          height: 43.572914123535156px;
+          width: 133.9463653564453px;
+        }
+        .carSlideText{
+          bottom: -7px;
+        }
+        .arrow-people{
+          width: 80px;
+        }
+        .arrow-under-text{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 300;
+          font-size: 20.9795px;
+          line-height: 31px;
+          /* or 146% */
+
+
+          color: #FFFFFF;
+        }
+        input[type=range] {
+          -webkit-appearance: none;
+          width: 317px;
+          background: linear-gradient(90deg, rgb(210, 70, 158) 0.78%, rgba(75, 213, 207) 100.02%);
+          mix-blend-mode: normal;
+          border-radius: 6.45525px;
+        }
+        input[type=range]:focus {
+          outline: none;
+        }
+        input[type=range]::-webkit-slider-runnable-track {
+          width: 100%;
+          height: 5px;
+          cursor: pointer;
+          animate: 0.2s;
+          background: linear-gradient(90deg, rgb(210, 70, 158) 0.78%, rgba(75, 213, 207) 100.02%);
+          mix-blend-mode: normal;
+          border-radius: 6.45525px;
+        }
+        #typeinp::-webkit-slider-thumb{
+          background-position-x: center;
+          background-position-y: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          width:38px;
+          height:25px;
+          
+          box-shadow: 0px 0px 52.4558px #E33093;
+          border-radius: 5.24558px;
+          cursor: pointer;
+          -webkit-appearance: none;
+          margin-top: -9px;
+        }
+        input[type=range]:focus::-webkit-slider-runnable-track {
+          background: linear-gradient(90deg, rgb(210, 70, 158) 0.78%, rgba(75, 213, 207) 100.02%);
+          mix-blend-mode: normal;
+          border-radius: 6.45525px;
+        }
+        .circle-1{
+          background: url(../assets/circle-d-1.png)center 0 no-repeat;
+          width: 115px;
+          height: 114px;
+          z-index: 2;
+          position: relative;
+          bottom: -55px;
+          right: -40px;
+        }
+        .circle-2{
+          background: url(../assets/circle-d-2.png)center 0 no-repeat;
+          width: 185px;
+          height: 177px;
+          z-index: 3;
+          position: relative;
+          bottom: -15px;
+          right: -35px;
+        }
+        .circle-3{
+          background: url(../assets/circle-d-3.png)center 0 no-repeat;
+          width: 185px;
+          height: 177px;
+          z-index: 2;
+          position: relative;
+          bottom: 15px;
+          right: 190px;
+        }
+        .drid{
+          width: 150px;
+          height: 185px;
+          background-size: cover;
+          z-index: 5;
+          position: relative;
+          bottom: 65px;
+          right: 98px;
+        }
+  }
+  @media only screen and (min-width: 3839px) and(min-height:2161px){
+      body{
+          line-height: 1;
+          background: #0B0C1D url(../assets/media/bg4k.svg) center 0 no-repeat;
+          width: 100%;
+          height: 100%;
+          background-size: cover;
+      }
+      .left-right-c-s{
+        margin-left: 30px;
+      }
+      .card-over{
+        height: 220px;
+        margin-right: 32px;
+      }
+      .card-prime{
+        margin-left: -60px;
+      }
+      .driiidik{
+        margin-left: -348px;
+        width: 344px;
+        height: 266px;
+      }
+      .card-prime-img{
+        background-size: 365px;
+        width: 332px;
+        height: 240px;
+        margin-left: 139px;
+        background-position-y:-42px;
+      }
+      .center{
+         width: 3234.1335449218777px;
+      }
+      .center-sec{
+        margin-left:250px;
+      }
+      header{
+          width: 3234.1335449218777px;
+          height: 233.36581420898457px;
+      }
+      footer{
+          height: 233.36581420898457px;
+          width: 3234.1335449218777px; 
+      }
+      .menu-open{
+          height: 23.26959228515625px;
+          width: 57.11697769165039px;
+      }
+      #card-prime-img{
+          height: 316.386688px;
+          width: 334.071472px;
+      }
+      
+      .card-prime h1{
+          width: 257px;
+          height:66px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 31px;
+          line-height: 107%;
+          letter-spacing: 6px;   
+          color: #FFFFFF;
+          opacity: 0.6;
+      }
+      .smart-sc{
+          height: 68.188484px;
+          width: 370.032898px;
+          background-size: cover;
+      }
+      .smart-b{
+          height: 52.37227249145508px;
+          width: 44.57754898071289px;   
+      }
+      .smart-sc h1 {
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 378;
+          font-size: 30.5483px;
+          line-height: 41px;
+          text-align: center;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.8;
+      }
+      .money{
+          background-size: cover;
+          height: 91.64299px;
+          width: 523.139954px;
+          margin-left: 50px;
+          
+      }
+      .wallet{
+          height: 36.75346755981445px;
+          width: 41.88655471801758px;
+          
+      }
+      .money h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 30.5483px;
+          line-height: 41px;
+          text-align: center;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.8;
+      }
+      .string{
+          height: 40.094669342041016px;
+          width: 1.909270167350769px;
+
+          
+      }
+      .user-name{        
+          width: 229px;
+      }
+      .user-name h1 {
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 378;
+          font-size: 30.5483px;
+          line-height: 41px;
+          text-align: center;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.8;
+      }
+      .user-pr{
+          width: 101px;
+          height: 101px;
+      }
+      .user-q{
+          width: 75px;
+          height: 75px;
+          margin: 13px 78px;
+      
+      }
+      .search{
+          margin-left: 150px;
+          background-size: cover;
+          height: 43.80329895019531px;
+          width: 43.789615631103516px;
+          
+      }
+      .pre-footer h1 {
+          margin-top: 15px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 30.5438px;
+          line-height: 107%;
+          /* identical to box height, or 33px */
+          
+          text-align: center;
+          letter-spacing: 5.72697px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.6;
+      }
+      .footer-section{
+          margin-top: 30px;
+          height: 260px;
+      }
+      .left-footer{
+          width: 366.5258178710941px;
+          height: 219.53372192382832px;
+      }
+      .left-footer h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 30.5438px;
+          line-height: 107%;
+          /* or 33px */
+          width: 220px;
+      
+          text-align: center;
+          letter-spacing: 5.72697px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.6;
+      }
+      .footer-line{
+          height: 3.817911148071289px;
+          width: 93.538818359375px;    
+          margin-top: 12px;
+      }
+      .left-footer-ic{
+          width: 135px;
+      }
+      .dis-f{
+          height: 54.43362045288086px;
+          width: 49.75712966918945px;
+          
+      }
+      .telega-f{
+          margin-left: 17px;
+          height: 54.43362045288086px;
+          width: 54.078712463378906px;        
+      }
+      .footer-position{
+          height: 219.53372192382812px;
+          width: 297.80224609375px;
+
+          border-radius: 9.544943809509277px;
+          
+          margin-right: 12px;
+      }
+      .line-f{
+          height: 185.17030334472656px;
+          width: 251.9842987060547px;
+
+          
+      }
+      .word-ic{
+          background-size: cover;
+          height: 58.22026443481445px;
+          width: 58.056495666503906px;      
+        }
+        .partner-ic{
+          background-size: cover;
+          height: 64.91876220703125px;
+          width: 64.91876220703125px;           
+        }
+        .stat-ic{
+          background-size: cover;
+          height: 64.91876220703125px;
+          width: 64.91876220703125px;   
+        }
+        .info-ic{
+          background-size: cover;
+          height: 64.91876220703125px;
+          width: 64.91876220703125px;   
+        }
+        .telega-ic{
+          background-size: cover;
+          height: 64.91876220703125px;
+          width: 64.91876220703125px;   
+        }
+        .promo-ic{
+          background-size: cover;
+          height: 64.91876220703125px;
+          width: 64.91876220703125px;   
+        }
+        .news-ic{
+          background-size: cover;
+          height: 64.91876220703125px;
+          width: 64.91876220703125px;   
+        }
+        .line-f h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 30.5438px;
+          line-height: 41px;
+          text-align: center;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.6;
+      }
+      .chatik{
+          width: 597.802551px;
+          height: 219.53366088867207px;  
+          align-items: flex-start;
+      }
+      .footer-down-line{
+          height: 13.68px;
+          width: 302.80224609375px;
+      }
+      .footer-block{
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          justify-content: flex-end;
+      }
+      .chat-ic{
+          width: 65px;
+          height: 65px;
+      }
+      .chatik h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 30.5438px;
+          line-height: 41px;
+          text-align: center;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.6;
+      }
+      .profile{
+          height: 1441.2855224609375px;
+          width: 774.771545px;
+          border-radius: 9.544937133789062px;
+          margin-top: 53px;
+      }
+      .profile-icon img{
+          height: 328.3458557128906px;
+          width: 327.4300537109375px; 
+      }
+      .profile-icon{
+          height: 328.3458557128906px;
+          width: 327.4300537109375px; 
+          margin: 31px auto;
+      }
+      .profile-id{
+          font-family: 'Nippo-B';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 49.6337px;
+          line-height: 46px;
+          /* identical to box height, or 92% */
+          margin: 40px auto 11px auto;
+          text-align: center;
+          letter-spacing: 0.277671px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.9;
+      }
+      .wallet-id{
+          margin-top: 57px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 30.5438px;
+          line-height: 41px;
+          text-align: center;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.6;
+      }
+      .wallet-id img{
+          height: 29.11208152771007px;
+          width: 33.17996597290052px;           
+      }
+      .arrow-icon{
+          height: 106.9032974243164px;
+          width: 106.60514068603516px; 
+          border-radius: 53px;
+      }
+      .arrow-icon img{
+        width: 45px;
+        height: 38px;
+      }
+      .arrow-icon:hover{
+          background: linear-gradient(134.2deg, #EA3498 -2.74%, #A6075E 95.67%);
+          box-shadow: 0px 0px 95.4494px #E33093;
+          border-radius: 53px;
+        }
+      .arrows-menu{
+          margin-top: 100px;
+          width: 680px;
+      }
+      .horizontal-line{
+          height: 164.1729278564453px;
+          width: 1.9036178588867188px;         
+      }
+      .path{
+          margin-top: 25px;
+          height: 70.979551px;
+          width: 23.979551px;
+      
+      }
+      .arrow-people{
+          width: 110px;
+      }
+      .arrow-under-text{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 300;
+          font-size: 30.5438px;
+          line-height: 46px;
+          /* identical to box height, or 150% */
+
+          text-align: center;
+          letter-spacing: 0.277671px;
+
+          color: #FFFFFF;
+      }
+      #path-2{
+          margin-top: 25px;
+      }
+      .score-graph{
+          width: 777px;
+          height: 651px;
+          background-position-y: 0px;
+          background-size: cover;
+          background: url(../assets/images/score-graph-4k.svg) center center no-repeat;
+          background-size: 776px;
+          background-position-x: -5px;
+      }
+      #pr-id{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 57.2696px;
+        line-height: 46px;
+        /* or 80% */
+        margin-top: 55px;
+        text-align: center;
+        letter-spacing: 0.277671px;
+
+        color: #FFFFFF;
+
+        opacity: 0.9;
+      }
+      .graph img{
+          margin: 185px 0px 0px 175px;
+          width:30px;
+      }
+      .graph{
+          background: url(../assets/media/Path.svg) center center no-repeat;
+          background-position-y: 3px;
+          position: relative;
+          width: 769px;
+          height: 289px;
+          background-repeat: no-repeat;
+      }
+      .profit-block{
+          height: 358px;
+          width:776px;
+      }
+      .profit{
+          left: 0;
+          right: 0;
+          top: 0;
+          bottom: 0;
+          position: relative;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 30.5438px;
+          line-height: 107%;
+          /* identical to box height, or 33px */
+          
+          text-align: center;
+          letter-spacing: 5.72696px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.6;
+      }
+      .button-show{
+          margin-top: 70px;
+      }
+      .button-show-svg{
+          height: 128.994301px;
+          width: 513.336761px;
+
+      }
+      .button-show-plus{
+          bottom: 85px;
+          right: 106px;
+          font-size: 46.5438px;
+      }
+      .r-c-s{
+          margin-top: 53px;
+          width: 2460px;
+          margin-left: 10px;
+          height: 1441.29px;
+      }
+      .dashboard{
+        margin-left: 40px;
+          width: 2430px;
+          height: 175.62693786621094px;
+      }
+      .dashboard-title{
+         margin-left: 50px;
+          font-family: 'Sportypo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 152.719px;
+          line-height: 143px;
+          /* identical to box height, or 94% */
+          
+          
+          color: #FFFFFF;
+          margin-left: 17px;
+          opacity: 0.9;
+          text-shadow: 0px 57.2697px 152.719px rgba(214, 50, 143, 0.47);
+      }
+      .personal-link{
+        margin-right: 35px;
+          height: 175.62693786621094px;
+          width: 557.5247802734375px;        
+          border-radius: 9.54494px;
+      }
+      .personal-link-title{
+          margin-top: 20px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 30.5438px;
+          line-height: 107%;
+          /* identical to box height, or 33px */
+          
+         
+          letter-spacing: 5.72697px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.6;
+      }
+      .pesonal-link-content{
+          margin: 30px 18px 15px 17px;
+      }
+      .link-text{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 378;
+          font-size: 30.5438px;
+          line-height: 41px;
+          text-align: center;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.8;
+      }
+      .link-purple-line{
+          height: 3.8179445266723633px;
+          width: 192.8061981201172px;
+          box-shadow: 0px -57.2697px 133.629px 171.809px rgba(234, 52, 151, 0.06);
+
+      }
+      .link-lower-panel{
+          margin-top: 40px;
+
+      }
+      .link-img1{
+          height: 59.178653717041016px;
+          width: 177.04078674316406px;        
+          background: linear-gradient(101.44deg, #19E1F2 14.32%, #6CE7DD 98.22%);
+          border-radius: 6.45525px;
+          margin-left: 50px;
+          margin-right: 25px;
+      }
+      .link-img2{
+          height: 59.17659378051758px;
+          width: 64.72079467773438px;     
+          background: linear-gradient(101.44deg, #19E1F2 14.32%, #6CE7DD 98.22%);
+          border-radius: 6.45525px;
+      }
+      .card{
+          height: 215.09417724609375px;
+          width: 557.524658203125px;
+          border-radius: 10.543834686279297px;
+      }
+      .card-content{
+          margin-top: 20px;
+      }
+      .card-count{
+          font-family: 'Nippo-B';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 54.8279px;
+          line-height: 51px;
+          /* identical to box height, or 92% */
+          
+          letter-spacing: 0.30673px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.8;
+      }
+      .number-cards{
+          width: 2435px;
+          height: 225px;
+          margin-left: 32px;
+      }
+      .card-text{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 33.7403px;
+          line-height: 107%;
+          /* or 36px */
+          
+          letter-spacing: 6.3263px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.7;
+      }
+      .card-percent{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 50.60972595214844px;
+          width: 141.2855224609375px;    
+          background: linear-gradient(135deg, #51C81C 0%, #48AF1B 100%);
+          border-radius: 10.5438px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 33.7403px;
+          line-height: 34px;
+          color: #FFFFFF;        
+          margin-left: 27px;
+      }
+      .card-under-line{
+          height: 4.217496395111084px;
+          width: 261.48480224609375px;
+          box-shadow: 0px -63.263px 147.614px 189.789px rgba(234, 52, 151, 0.06);
+          margin-top: 43px;
+          margin-bottom: 23px;
+      }
+      .card-percent2{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 50.60972595214844px;
+          width: 143.3942413330078px;
+
+          background: linear-gradient(135deg, #FC381D 0%, #DB2F18 100%);
+          border-radius: 10.5438px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 33.7403px;
+          line-height: 34px;
+          /* identical to box height, or 100% */
+          
+          
+          color: #FFFFFF;
+          margin-left: 52px;
+      }
+      .card1-img{
+          height: 103.32776641845703px;
+          width: 55.11553192138672px;     
+        }
+        .card2-img{
+          height: 99.11148071289062px;
+          width: 99.63420104980469px;
+          
+        }
+        .card3-img{
+          height: 90.67495727539062px;
+          width: 105.990478515625px;
+
+          
+        }
+        .card4-img{
+          height: 92.78409576416016px;
+          width: 93.27249908447266px;
+
+          
+      }
+      .card-count2{
+          
+          font-style: normal;
+          font-weight: 500;
+          font-size: 54.8279px;
+          line-height: 51px;
+          /* identical to box height, or 92% */
+          
+          letter-spacing: 0.30673px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.8;
+      }
+      .card4-first{
+          margin-top: 23px;
+      }
+      .card-under-line2{
+          height: 4.217532634735107px;
+          width: 196.11529541015625px;            
+          margin-top: 43px;
+          margin-bottom: 23px;
+          background: #EA3498;
+          opacity: 0.4;
+          box-shadow: 0px -63.263px 147.614px 189.789px rgba(234, 52, 151, 0.06);
+      }
+      .card-count-block2{
+          margin-top: 22px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 37.1177px;
+          line-height: 34px;
+          /* identical to box height, or 91% */
+
+
+          color: #FFFFFF;
+
+          opacity: 0.8;
+      }
+      .card-count-block2 img{
+          width: 435px;
+          height: 20px;
+      }
+      #car-information{
+          margin-left: 32px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 300;
+          font-size: 30.5438px;
+          line-height: 41px;
+          letter-spacing: 3.81798px;
+          margin-top: 25px;
+          margin-bottom: 25px;
+          color: #FFFFFF;
+          
+          opacity: 0.8;
+      }
+      .card-under-line-selected{
+          position: relative;
+          bottom: 6px;
+          height: 12.652596473693848px;
+          width: 556.7142944335938px;             
+          opacity: 0.7;
+          background: linear-gradient(90deg, rgba(210, 70, 158, 0.83) 0.78%, rgba(75, 213, 207, 0.83) 100.02%);
+          mix-blend-mode: normal;
+          border-radius: 10.5438px;
+      }
+      .left-up-bl{
+          display: flex;
+          flex-direction: column;
+          justify-content: space-evenly;
+          height: 422.3818664550781px;
+          width: 771.64453125px;        
+          background: linear-gradient(90deg, rgba(210, 70, 158, 20%) 0.78%, rgba(75, 213, 207, 20%) 100.02%);
+          mix-blend-mode: normal;
+          border-radius: 10.3525px;
+          margin-bottom: 44px;
+         
+      }
+      .left-down-bl-1{
+          width:771px;
+          height: 422.3818664550781px;
+          border-radius: 10.3525px;
+      }
+      .left-down-bl{
+          display: flex;
+          flex-direction: column;
+          justify-content: space-evenly;
+          height: 422.381866px;
+          width: 770.644531px;
+          position: relative;
+          top: -1px;      
+          background: linear-gradient(90deg, rgba(210, 70, 158, 20%) 0.78%, rgba(75, 213, 207, 20%) 100.02%);
+          mix-blend-mode: normal;
+          border-radius: 10.3525px;
+      }
+      #left-up-bl-up-h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 33.128px;
+          line-height: 107%;
+          /* or 35px */
+          margin-right: 50px;
+          margin-left: 20px;
+          letter-spacing: 6.2115px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.7;
+      }
+      .left-up-bl-up-active{
+          margin-left: 96px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 45.20512390136719px;
+          width: 112.67301177978516px;          
+          background: #EA3498;
+          box-shadow: 0px -62.115px 144.935px 186.345px rgba(234, 52, 151, 0.06);
+          border-radius: 10.3525px;
+      }
+      .left-up-bl-up{
+          display: flex;
+          justify-content: flex-start;
+          align-items: center;
+          margin-left: 30px;
+      }
+      .left-up-bl-up-active h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 24.846px;
+          line-height: 25px;
+          /* identical to box height, or 100% */
+          
+          text-align: center;
+          
+          color: #FFFFFF;
+      }
+      #binance{
+          margin-bottom: 10px;
+             margin-left: 47px;
+      }
+      .left-up-bl-check{
+        margin-left: 32px;
+      }
+      .left-up-bl-check-up-block{
+          height: 86.9594497680664px;
+          width: 105.29911041259766px;   
+          margin-right: 8px;   
+          border-radius: 10.3525px;  
+      }
+      .left-up-bl-check-up-block-enable{
+        height: 86.95945px;
+        width: 105.29911px;
+          border-radius: 10.3525px;   
+          margin-right: 8px;
+      }
+      .left-up-bl-check-up-block-plus{
+        height: 86.95945px;
+        width: 105.29911px; 
+          border-radius: 10.3525px; 
+          margin-right: 8px;
+      }
+      .plus-box{
+          width: 60px;
+          height: 60px;
+      }
+      .check-box{
+          width: 50px;
+          height: 50px;
+      }
+      .left-down-bl-up h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 33.128px;
+          line-height: 107%;
+          /* or 35px */
+          
+          letter-spacing: 6.2115px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.7;
+      }
+      #left-down-bl-down-left-h1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 26.9165px;
+          line-height: 31px;
+          /* or 115% */
+          
+          display: flex;
+          align-items: flex-end;
+          letter-spacing: 1.92261px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.8;
+      }
+      #left-down-bl-down-left-h2{
+         
+      font-family: 'Nippo';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 33.128px;
+      line-height: 33px;
+      /* identical to box height, or 100% */
+      height: 49.69133377075195px;
+      width: 138.3347625732422px;
+
+      color: #FFFFFF;
+
+      opacity: 0.9;
+      }
+      #left-down-bl-down-left-h3{
+          width: 156px;
+        
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 26.9165px;
+          line-height: 31px;
+          /* or 115% */
+
+          display: flex;
+          align-items: flex-end;
+          letter-spacing: 1.92261px;
+
+          color: #FFFFFF;
+
+          opacity: 0.8;
+      }
+      #left-down-bl-down-left-h4{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 33.128px;
+          line-height: 33px;
+          /* identical to box height, or 100% */
+          height: 49.69133377075195px;
+          width: 138.3347625732422px;
+
+
+          
+          color: #FFFFFF;
+          
+          opacity: 0.9;
+      }
+      .left-down-bl-up{
+        margin-left: 54px;
+      }
+      .left-down-bl-down-right-car{
+        margin-left: 2px;
+          width: 553px;
+          height: 318px;
+          background-size: cover;
+      }
+      .left-down-bl-down-line{
+        width: 776.802856px;
+        height: 14.4934625626px;
+        background: #EA3498;
+        opacity: 0.9;
+        box-shadow: 0px -62.115px 144.935px 186.345px rgb(234 52 151 / 6%);
+        top: -16px;
+        border-radius: 10.3525px;
+      }
+      .left-down-left-bl{
+        height: 883.103333px;
+        width: 1589.400635px;
+        border-radius: 4px;
+        margin-left: 20px;
+        border-radius: 5.24558px;
+        margin-left: 40px;
+      }
+      .car{
+          height: 884.1033325195312px;
+          width: 1588.400634765625px;
+          
+      }
+      .car-upper-block{
+          margin-top: 35px;
+          height: 88.37438201904297px;
+          width: 1420.3028564453125px;
+          
+      }
+      .car-center-block{
+          margin-top: 38px;
+          width: 1420.3028564453125px;
+      }
+      .car-parameter{
+          height: 281.9564514160156px;
+          width: 330.3519287109375px;           
+      }
+      .car-parameters{
+          height: 630px;
+      }
+      .car-big{
+          height: 713px;
+          width: 658.721436px;
+          background-size: 564.721435546875px;
+          
+      }
+      .car-big-content{
+          height: 656.721436px;
+          width: 552.721436px;
+          margin-left: 57px;
+          background: url(../assets/media/casr4k.png) center center no-repeat;
+      }
+      .car-parameter-title{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 27.354px;
+          line-height: 32px;
+          /* identical to box height, or 115% */
+          
+          letter-spacing: 1.95386px;
+          
+          color: #FFFFFF;
+          
+          mix-blend-mode: normal;
+          opacity: 0.6;
+      }
+      .car-parameter-value-text1{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 300;
+          font-size: 100.999px;
+          line-height: 84px;
+          /* identical to box height, or 83% */
+          
+          
+          color: #ffffff;
+      }
+      .car-parameter-value-text3{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 300;
+          font-size: 54.708px;
+          line-height: 55px;
+          /* identical to box height, or 100% */
+          
+          letter-spacing: 1.05208px;
+          
+          color: #FFFFFF;
+      }
+      #car-text2{
+          margin-top: 12px;
+      }
+      .car-img4{
+          height: 205.811401px;
+          width: 8.312456px;
+      }
+      .car-parameter-value-text2{
+          margin-top: 12px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 300;
+          font-size: 29.4581px;
+          line-height: 29px;
+          /* identical to box height, or 100% */
+          
+          text-align: center;
+          
+          color: #FFFFFF;
+      }
+      #parameter-text4{
+          margin-left: 38px;
+      }
+      .car-parameter-content{
+          margin: 45px 0 auto 50px;
+      }
+      .car-parameter-value-content{
+          margin-top: 46px;
+      }
+      #percent{
+          margin-left: 57px;
+          margin-top: 49px;
+      }
+      .car-control{
+          margin-top: 71px;
+          margin-right: 56px;
+      }
+      .car-control-up{
+          width: 41px;
+          height: 41px;
+      }
+      .car-control-down{
+          width: 41px;
+          height: 41px;
+      }
+      #locked{
+          width: 69px;
+          height: 69px;
+          background-repeat: no-repeat;
+          background-size: cover;
+      }
+      #locked:hover{
+          width: 69px;
+          height: 69px;
+          background: url(../assets/images/big-car-unlocked.svg);
+          background-repeat: no-repeat;
+          background-size: cover;
+        }
+        .car-big-up{
+          width: 547px;
+        }
+        .car-big-center{
+          width: 481px;
+          margin-bottom: 36px;
+          margin-top: 153px;
+        }
+        .locked-down{
+          margin-top: 155px;
+        }
+        .car-radio-text{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 29.4581px;
+          line-height: 67px;
+          /* or 229% */
+          
+          letter-spacing: 1.13301px;
+          
+          color: #FFFFFF;
+          
+          opacity: 0.9;
+        }
+        .car-parameter-content2{
+          margin: 49px 27px 27px 50px;
+        }
+        .car-parameter-value2{
+          margin-top: 28px;
+        }
+        .checkbox{
+          width: 55px;
+          height: 33px;
+        }
+        #button-1 .checkbox:checked + .knobs:before{
+          left: 21px;
+        }
+        #button-1 .knobs:before{
+          width: 30px;
+          height: 30px;
+        }
+        .layer{
+          width: 54px;
+          height: 33px;
+        }
+        .car-img5{
+          margin-top: 152px;
+          width: 58px;
+        }
+        .car-img1{
+          width: 50px;
+          height: 35px;
+          margin-left: 55px;
+        }
+        .car-tesla-text{
+          margin-top: 9px;
+          margin-left: 22px;
+          margin-right: 18px;
+          width: 191px;
+          font-family: 'Nippo-B';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 27.354px;
+          line-height: 32px; 
+          display: flex;
+          align-items: flex-end;
+          letter-spacing: 1.95386px;         
+          color: #FFFFFF; 
+          opacity: 0.9;
+        }
+        .car-tesla-text2{
+          width: 93px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 27.354px;
+          line-height: 25px;
+          color: #FFFFFF;
+          mix-blend-mode: normal;
+          opacity: 0.4;
+        }
+        .car-slider-limit{
+          margin-left: 12px;
+          margin-right: 22px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 200;
+          font-size: 33.6664px;
+          line-height: 107%;
+          text-align: center;
+          letter-spacing: 6.31246px;
+          color: #FFFFFF;
+          opacity: 0.6;
+        }
+        #typeinp{ //slider
+          margin-bottom: 7px;
+        }
+        .car-img2{
+          height: 65.22874450683594px;
+          width: 195.140380859375px;         
+        }
+        .carSlideText{
+          bottom: 2px;
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 28.9045px;
+          line-height: 107%;
+          text-align: center;
+          letter-spacing: 6.31246px;
+          color: #FFFFFF;
+          opacity: 0.6;
+        }
+        .arrow-people{
+          width: 112px;
+        }
+        .arrow-under-text{
+          font-family: 'Nippo';
+          font-style: normal;
+          font-weight: 300;
+          font-size: 30.5438px;
+          line-height: 46px;
+          text-align: center;
+          letter-spacing: 0.277671px;
+          color: #FFFFFF;
+        }
+        input[type=range] {
+          -webkit-appearance: none;
+          width: 458px;
+          background: linear-gradient(90deg, rgb(210, 70, 158) 0.78%, rgba(75, 213, 207) 100.02%);
+          mix-blend-mode: normal;
+          border-radius: 8.41661px;
+        }
+        input[type=range]:focus {
+          outline: none;
+        }
+        input[type=range]::-webkit-slider-runnable-track {
+          width: 100%;
+          height: 5px;
+          cursor: pointer;
+          animate: 0.2s;
+          background: linear-gradient(90deg, rgb(210, 70, 158) 0.78%, rgba(75, 213, 207) 100.02%);
+          mix-blend-mode: normal;
+          border-radius: 8.41661px;
+        }
+        #typeinp::-webkit-slider-thumb{
+          background-position-x: center;
+          background-position-y: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          width:53px;
+          height:35px;
+          box-shadow: 0px 0px 52.4558px #E33093;
+          border-radius: 5.24558px;
+          cursor: pointer;
+          -webkit-appearance: none;
+          margin-top: -14px;
+        }
+        input[type=range]:focus::-webkit-slider-runnable-track {
+          background: linear-gradient(90deg, rgb(210, 70, 158) 0.78%, rgba(75, 213, 207) 100.02%);
+          mix-blend-mode: normal;
+          border-radius: 10.5208px;
+        }
+
+        .circle-1{
+          background: url(../assets/media/circle-d-1-4k.png)center 0 no-repeat;
+          width: 176px;
+          height: 175px;
+          z-index: 4;
+          position: relative;
+          bottom: -55px;
+          right: -63px;
+        }
+        .circle-2{
+          background: url(../assets/media/circle-d-2-4k.png)center 0 no-repeat;
+          width: 275px;
+          height: 225px;
+          z-index: 3;
+          position: relative;
+          bottom: -39px;
+          right: -48px;
+        }
+        .circle-3{
+          background: url(../assets/media/circle-d-3-4k.png)center 0 no-repeat;
+          width: 275px;
+          height: 275px;
+          z-index: 2;
+          position: relative;
+          bottom: 16px;
+          right: 280px;
+        }
+        .drid{
+          width: 219px;
+          height: 264px;
+          background-size: cover;
+          z-index: 5;
+          position: relative;
+          bottom: 100px;
+          right: 125px;
+        }
+  }
+// }
+
+
+/* Mobile styles */
+@media only screen
+and (max-device-width: 770px) {
+  .App-dec{
+      display:none;
+  }
+  body{
+      background: #0B0C1D url(../assets/mobile-bg.png) center 0 no-repeat;
+      background-size: 100%;
+  }
+  header{
+      width:90%;
+      height:75px;
+      background: rgb(255, 255, 255, 0.05);
+      border-radius: 5px;
+      margin: 19px 5% 16px 5%;
+  }
+  .mobile-cards-header{
+      width:178px;
+      height:82px;
+  }
+  .mobile-cards-header-content{
+      width:178px;
+      height:82px;
+      background: url(../assets/images/mobile-cards-header.svg) center center no-repeat;
+      background-position-x: 30px;
+      background-position-y: -17px;
+  }
+  .menu-open{
+      margin-left:16px;
+      height:10px;
+  }
+  .user-name{
+      width:43px;
+      height:30px;
+      margin-right:16px;
+  }
+  .user-pr{
+      width:30px;
+      height:30px;
+      margin:0px;
+  }
+  .user-q{
+      width: 19px;
+      height: 19px;
+      margin: 5px 0px 0px 25px;
+  }
+  .personal-link{
+      width:88%;
+      height:91px;
+      margin: 0 5% 16px 5%;
+      border:3.56px solid rgba(255,255,255,0.04);
+      border-radius:4.75px;
+  }
+  .link-text{
+    text-align:start;
+  }
+  .link-lower-panel{
+    align-items:normal;
+    justify-content: space-between;
+  }
+  .pesonal-link-content{
+      margin: 0;
+      padding: 18px 15px 18px 15px;
+  }
+  .profile{
+      width:88%;
+      height:914px;
+      margin: 0 auto;
+      padding-top:33px;
+      border: 3.56px solid rgba(255, 255, 255, 0.04);
+  }
+  .profile-icon{
+      margin: 0px auto 32px auto;
+  }
+  .profile-id{
+      width: 179px;
+      height: 24px;
+      font-size: 26px;
+      line-height: 24px;
+      margin: 0 auto 12px auto;
+  }
+  #profile-id{
+      font-size:30px;
+  }
+  .wallet-id{
+      font-size: 16px;
+      line-height: 22px;
+      height: 22px;
+  }
+  .wallet-id img{
+      margin-top:-2px;
+  }
+  .arrows-menu{
+      width: 69%;
+      height: 92px;
+  }
+  .path{
+      margin-top:20px;
+  }
+  .arrow-icon{
+      width:56px;
+      height:56px;
+  }
+  .horizontal-line{
+      height:86px;
+  }
+  .score-graph{
+    background: url(../assets/images/profile-bg-mobile.svg) center center no-repeat;
+    width: 100%;
+    height: 510px;
+    background-size: 100%;
+    background-position-y:0%;
+  }
+  .graph{
+    width:100%;
+    height:344px;
+    background: none;
+  }
+  .graph img{
+    margin:0;
+  }
+  .profile-img1{
+    width:100%;
+    margin:0 auto;
+    position: relative;
+  }
+  .profile-img2{
+      position:absolute;
+      width:16px;
+      height:16px;
+      right: 59px;
+  }
+  .profit{
+      height: 17px;
+      font-size: 16px;
+      line-height: 107%;
+  }
+  .profit-block{
+      height:167px;
+  }
+  .dashboard-title{
+    width: 100%;
+    height: 87px;
+    text-align: center;
+    text-shadow: 0px 30px 80px rgb(214 50 143 / 47%);
+    font-size: 30px;
+    line-height: 75px;
+    margin: 0 auto;
+  }
+  .number-cards{
+      height:438px;
+      width:90%;
+      margin:0 5% 0 5%;
+      flex-direction: column;
+  }
+  .card{
+      width:100%;
+  }
+  .card-count2{
+    opacity: 0.8;
+  }
+  .card-count2 .id1{
+    margin: 1px 1px 0px -1px;
+  }
+  .card-count2 .id2{
+    margin: 4px 0px 0px 1px;
+  }
+  .card-count-block2 img{
+    margin-bottom: 2px;
+  }
+  .card:hover .card-under-line-selected{
+   display: flex;
+  }
+  .card-under-line-selected{
+    width: 100%;
+    height:6px;
+    border-radius: 5px 5px 5px 5px;
+    margin-top: -2px;
+  }
+  .card-text{
+      font-weight: 300;
+      height: 17px;
+      font-size: 16px;
+  }
+  .card-count{
+      height: 24px;
+      font-weight: 400;
+      font-size: 26px;
+      line-height: 24px;
+      letter-spacing: 0.14px;
+  }
+  .card-percent{
+      width: 67px;
+      height: 24px;
+      font-size: 16px;
+      line-height: 16px;
+  }
+  .card-percent2{
+      width: 67px;
+      height: 24px;
+      font-size: 16px;
+      line-height: 16px;
+  }
+  #car-information{
+      width:90%;
+      height:44px;
+      font-weight: 300;
+      font-size:16px;
+      line-height:22px;
+      letter-spacing: 2px;
+      margin: 0 auto;
+      text-align: center;
+      margin-top: 20px;
+      margin-bottom: 19px;
+  }
+  .your-last-car{
+    border: 2.37423px solid rgba(255, 255, 255, 0.088);
+    border-radius: 5.16169px;
+    width: 89%;
+    height: 204px;
+    margin: 0 auto;
+  }
+  .your-last-car-content{
+    background: linear-gradient(90deg, rgba(210, 70, 158, 0.166) 0.78%, rgba(75, 213, 207, 0.166) 100.02%);
+    height: 206px;
+    width: 100.5%;
+    border-radius: 3px;
+    position: relative;
+    left: -1px;
+    top:-1px;
+  }
+  .left-up-bl{
+      width: 90%;
+      height: 254px;
+      margin: 0 auto;
+      margin-bottom: 16px;
+      background: linear-gradient(90deg, rgba(210, 70, 158, 0.2) 0.78%, rgba(75, 213, 207, 0.2) 100.02%);
+  }
+  #left-up-bl-up-h1{
+      width: 202px;
+      height: 17px;
+      font-size: 16px;
+      margin-left:5%;
+  }
+  .left-up-bl-up{
+      width: 90%;
+      justify-content: space-between;
+      margin: 0 auto;
+  }
+  .left-up-bl-up-active{
+      width: 54px;
+      height: 22px;
+      opacity: 0.9;
+      margin-right: 0px;
+  }
+  .left-up-bl-up-active h1{
+      height: 12px;
+      font-size: 12px;
+  }
+  .left-up-bl-check-up{
+      width:90%;
+      flex-wrap: wrap;
+      margin: 0 auto;
+  }
+  .left-up-bl-check-up-block-enable{
+      width:19%;
+      height:47px;
+      margin-right:1.25%;
+      margin-bottom:8px;
+  }
+  .left-up-bl-check-up-block-plus{
+      width:19%;
+      height:47px;
+      margin-right:1.25%;
+      margin-bottom:8px;
+  }
+  .left-up-bl-check-up-block{
+      width:19%;
+      height:47px;
+      border:0px;
+      margin-right:1.25%;
+      margin-bottom:8px;
+  }
+  .left-down-bl-1{
+      width:88%;
+      height:204px;
+      margin: 0 auto;
+      margin-bottom: 16px;
+      opacity: 0.2;
+      border: 2.37423px solid #ffffff16;
+      border-radius: 5.16169px;
+      
+  }
+  .left-down-bl{
+      width:100%;
+      height:204px;
+      border:0;
+      border-radius: 1.75904px 1.75904px 0px 0px;
+      background: linear-gradient(90deg, rgba(210, 70, 158, 0.83) 0.78%, rgba(75, 213, 207, 0.83) 100.02%);
+  }
+  .left-down-bl-up h1{
+      height: 17px;
+      font-weight: 300;
+      font-size: 16px;
+  }
+  .left-down-bl-up{
+      padding-top: 20px;
+      margin-top:0px;
+      margin-left: 5%;
+      margin-bottom: 20px;
+  }
+  #left-down-bl-down-left-h1{
+      font-weight: 400;
+      font-size: 13px;
+      margin-bottom: 4px;
+      font-family: "Nippo-B";
+  }
+  #left-down-bl-down-left-h2{
+      width: 67px;
+      height: 24px;
+      font-family: "Nippo-B";
+      font-size:15px;
+  }
+  #left-down-bl-down-left-h3{
+    font-family: "Nippo-B";
+    width:85px;
+    margin-bottom:4px;
+  }
+  #left-down-bl-down-left-h4{
+    font-family: "Nippo-B";
+    font-size:15px;
+  }
+  .left-down-bl-down{
+      justify-content: space-between;
+      align-items: flex-start;
+      height: 146px;
+      margin-left:5%
+  }
+  .left-down-bl-down-right-car{
+      width:173px;
+      height:146px;
+      background-size: 214px;
+      background-position-y: 4px;
+      background-position-x: -30px;
+  }
+  .left-down-bl{
+      justify-content: flex-start;
+  }
+  .left-down-bl-down-line{
+      height: 7px;
+      width: 100%;
+      top:-4px;
+  }
+  .left-down-bl-down-left{
+    margin-left:0px;
+  }
+  .left-footer{
+      width:86.1%;
+      height:115px;
+      margin: 0 auto;
+      margin-top:30px;
+  }
+  .left-footer h1{
+      width:109px;
+      height:34px;
+      font-weight: 300;
+      font-size:16px;
+  }
+  .footer-line{
+      width:49px;
+  }
+  .chatik{
+      width: 97.8%;
+      height: 115px;
+      display:block;
+  }
+  .r-c{
+      width: 88%;
+      margin: 0 auto;
+      margin-top: 28px;
+  }
+  .chatik h1{
+      margin-left: 24px;
+      width: 138px;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 22px;
+      text-align: center;
+  }
+  .dis-f{
+      margin-top:1px;
+  }
+  .circle-3{
+      background:url(../assets/images/circle-1-mobile-1.png) center center no-repeat;
+      background-size: 165px;
+      width: 165px;
+      height: 165px;
+      bottom: 135px;
+      right: 0px;
+      left: 151px;
+  }
+  .circle-2{
+      background:url(../assets/images/circle-1-mobile.png) center center no-repeat;
+      background-size: 133px;
+      height: 183px;
+      width: 150px;
+      bottom: -5px;
+      right:-25px;
+  }
+  .circle-1{
+      background:url(../assets/images/little-circle.png) center center no-repeat;
+      right: -34px;
+      bottom: -47px;
+  }
+  .drid{
+      background-size: 105px;
+      right: 53px;
+      bottom: 39px;
+      width: 128px;
+      height: 155px;
+  }
+  .line-f{
+      width: 132px;
+      height: 97px;
+      border: 2px solid rgba(255, 255, 255, 0.02);
+      margin: 0px 9px 0px 9px;
+  }
+  .footer-position{
+      width: 154px;
+      height: 115px;
+      margin-right: 9px;
+  }
+  .footer-position:hover{
+      background: linear-gradient(134.2deg, #EA3498 -2.74%, #A6075E 95.67%);
+      box-shadow: 0px 0px 10px #E33093;
+      opacity:0.9;
+      border-radius: 5px;
+      background-size: 165px;
+      background-position-x: -2px;
+      background-position-y: -2px;
+  }
+  .c-c-mobile{
+      margin-top: 28px;
+      margin-left: 6%;
+  }
+  .c-c{
+      width: 99%;
+      overflow:auto;
+  }
+  .r-c-obs{
+      width:100%;
+      display: block;
+  }
+  .chat-ic{
+      margin:29px auto 14px 80px;
+  }
+  .driiidik{
+    background: url(../assets/media/driiiiidik.svg) center center no-repeat;
+    width: 152px;
+    height: 130px;
+    margin-top: -105px;
+    background-size: cover;
+    float:right;
+  }
+  @media only screen
+  and (max-device-width: 541px) {
+      .profile-img2{
+        right:43px;
+      }
+      .profile{
+        height:812px;
+      }
+      .score-graph{
+        height: 409px;
+      }
+      .graph{
+        height:242px;
+      }
+      
+  }
+  @media only screen
+  and (max-device-width: 429px) {
+      .profile{
+        height:704px
+      }
+      .score-graph{
+        height:334px;
+      }
+      .graph{
+        height:167px;
+      }
+      .profile-img2{
+          right:34px;
+      }
+  }
+  @media only screen
+  and (max-device-width: 415px) {
+      .profile-img2{
+        right:33px;
+      }
+
+  }
+  @media only screen
+  and (max-device-width: 394px) {
+      .profile-img2{
+        right:31px;
+      }
+
+  }
+  @media only screen
+  and (max-device-width: 391px) {
+      .profile-img2{
+        right:31px;
+      }
+  }
+  @media only screen
+  and (max-device-width: 376px) {
+      .profile-img2{
+        right:30px;
+      }
+
+  } 
+  @media only screen
+  and (max-device-width: 361px) {
+      .profile-img2{
+        right:29px;
+      }
+      
+  }
+  @media only screen
+  and (max-device-width: 281px) {
+      .profile{
+        height:710px;
+      }
+      .profile-img2{
+          right:22px;
+      }
+      .link-lower-panel{
+        width:225px;
+      }
+      .link-img1{
+        margin-left:0px;
+        margin-right:3px;
+      }
+      .arrows-menu{
+        width:90%;
+      }
+      .graph{
+        height:140px;
+      }
+      .left-up-bl-check-up-block-enable{
+        height:35px;
+      }
+      .check-box{
+        width:22px;
+        height:22px;
+      }
+      .left-up-bl-check-up-block-plus{
+        height:35px;
+      }
+      .plus-box{
+        height:22px;
+        width:22px;
+      }
+      .left-up-bl-check-up-block{
+        height:35px;
+      }
+      
+  }
+  .car{
+      width: 90%;
+      height: 750px;
+      margin: 0 auto;
+      margin-top:16px;
+  }
+  .car-upper-block{
+      width:90%;
+      height:132px;
+      flex-direction: column;
+      margin-top: 20px;
+  }
+  .upper-block-1{
+      display:flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      margin-top:17px;
+      width: 90%;
+      margin-left: 5%;
+      margin-right:5%;
+  }
+  .car-img1{
+      margin-left:9vw;
+  }
+  .car-img2{
+      margin:0;
+      margin-top:7px;
+      margin-bottom:16px;
+  }
+  .car-img4{
+      margin-top:23px;
+      margin-right:13px;
+  }
+  .car-img5{
+      margin-top:66px;
+      margin-right:9px;
+  }
+  .car-tesla-text{
+      height: 15px;
+      width: 25vw;
+      font-size: 13px;
+      line-height: 15px;
+      margin-left:3vw;
+      margin-right:4px;
+      font-family: "Nippo-B";
+  }
+  .car-tesla-text2{
+    height: 12px;
+    font-size: 13px;
+    line-height: 12px;    
+    margin-right: 9vw;
+    font-family: "Nippo-B";
+  }
+  .car-slider-limit{
+      margin:0;
+  }
+  .mobile-slider{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      width:90%;
+      margin-left: 5%;
+      margin-right:5%;
+      margin-top:11px;
+  }
+  input[type=range] {
+      -webkit-appearance: none;
+      width: 200px;
+      background: linear-gradient(90deg, rgb(210, 70, 158) 0.78%, rgba(75, 213, 207) 100.02%);
+      mix-blend-mode: normal;
+      border-radius: 5.24558px;
+    }
+    input[type=range]:focus {
+      outline: none;
+    }
+    input[type=range]::-webkit-slider-runnable-track {
+      width: 100%;
+      height: 5px;
+      cursor: pointer;
+      animate: 0.2s;
+      background: linear-gradient(90deg, rgb(210, 70, 158) 0.78%, rgba(75, 213, 207) 100.02%);
+      mix-blend-mode: normal;
+      border-radius: 5.24558px;
+    }
+    #typeinp::-webkit-slider-thumb{
+      background-position-x: center;
+      background-position-y: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      width:26px;
+      height:17px;
+      background: linear-gradient(134.2deg, #EA3498 -2.74%, #A6075E 95.67%);
+      box-shadow: 0px 0px 52.4558px #E33093;
+      border-radius: 5.24558px;
+      cursor: pointer;
+      -webkit-appearance: none;
+      margin-top: -7px;
+    }
+    input[type=range]:focus::-webkit-slider-runnable-track {
+      background: linear-gradient(90deg, rgb(210, 70, 158) 0.78%, rgba(75, 213, 207) 100.02%);
+      mix-blend-mode: normal;
+      border-radius: 5.24558px;
+    }
+
+    .car-parameter{
+      width:36vw;
+      height:42%;
+      margin-bottom:20px;
+    }
+    .car-parameter-title{
+      height: 16px;
+      width: 80%;
+      font-size: 13px;
+      line-height: 15px;
+      margin:20px 10% 7px 10%;
+    }
+    .car-parameter-value-content{
+      margin-bottom:0px;
+    }
+    .car-parameter-value-text1{
+      width:47px;
+      height:40px;
+      font-weight: 300;
+      font-size: 40px;
+      line-height: 40px;
+      margin-left: 10%;
+    }
+    .car-parameter-value-text2{
+      width:14px;
+      height:14px;
+      font-weight: 400;
+      font-size:14px;
+      line-height:14px;
+    }
+    .car-control-up *{
+      width:19px;
+    }
+    .car-control-down *{
+      width:19px;
+    }
+    .car-parameter-value{
+      flex-direction: column;
+    }
+    .car-control{
+      margin-right: 0;
+      transform: rotate(90deg);
+      height: 48px;
+      margin: 0 auto;
+    }
+    .car-control-up{
+      margin:0;
+      margin-bottom:8px;
+    }
+    .car-radio{
+      justify-content: space-between;
+      width:80%;
+      margin:0 auto;
+      margin-bottom: -3px;
+      margin-left:10%;
+    }
+    .car-radio-text{
+      font-size: 10px;
+      line-height: 32px;
+    }
+    .button{
+      margin-top:3px;
+    }
+
+    .car-parameters-all{
+      display:flex;
+      flex-direction: row;
+      justify-content: space-between;
+      width: 90%;
+      margin-bottom: 10px;
+    }
+    .car-parameter-content{
+      margin:0px;
+    }
+    #car-value-content{
+      margin-left:20%;
+    }
+    #parameter-4{
+      width:50px;
+    }.carSlideText{
+      width: 8px;
+    }
+  
+    .car-big{
+      width: 90%;
+      background-size: 169px;
+      height: 236px;
+    }
+    .car-big-content{
+      background: url(../assets/images/big-car-mobile.png) center center no-repeat;
+      width: 233px;
+      height:250px;
+      margin: 0 auto;
+      background-size: 117px;
+      background-position-y: 18px;
+    }
+    .car-big-up{
+      width:233px;
+    }
+    #locked{
+      height: 21px;
+      width: 21px;
+      background-size: 21px;
+    }
+    #locked:hover{
+      background-size:cover;
+    }
+    .car-big-center{
+      width: 150px;
+      margin-top: 50px;
+    }
+
+}

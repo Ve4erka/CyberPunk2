@@ -1,0 +1,184 @@
+html{
+  box-sizing: border-box;
+}
+::before,::after{
+  box-sizing: inherit;
+}
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+  background: #000000 url(../assets/bg.png) center 0 no-repeat;
+  width: 100%;
+  height: 100%;
+  // overflow-x:hidden;  /*для горизонтального*/
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+@font-face {
+  font-family: 'Nippo';
+  src: url('../assets/Nippo-Extralight.ttf') format('opentype');
+}
+@font-face {
+  font-family: 'Sportypo';
+  src: url('../assets/Sportypo-Reguler-Demo.ttf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Nippo-B';
+  src: url('../assets/Nippo-Medium.otf') format('opentype');
+}
+
+input[type=range] {
+  -webkit-appearance: none;
+  width: 235px;
+  background: linear-gradient(90deg, rgb(210, 70, 158) 0.78%, rgba(75, 213, 207) 100.02%);
+  mix-blend-mode: normal;
+  border-radius: 5.24558px;
+}
+input[type=range]:focus {
+  outline: none;
+}
+input[type=range]::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 5px;
+  cursor: pointer;
+  animate: 0.2s;
+  background: linear-gradient(90deg, rgb(210, 70, 158) 0.78%, rgba(75, 213, 207) 100.02%);
+  mix-blend-mode: normal;
+  border-radius: 5.24558px;
+}
+#typeinp::-webkit-slider-thumb{
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width:26px;
+  height:17px;
+  box-shadow: 0px 0px 52.4558px #E33093;
+  border-radius: 5.24558px;
+  cursor: pointer;
+  -webkit-appearance: none;
+  margin-top: -7px;
+}
+.new5::-webkit-slider-thumb {
+  background: url(../assets/media/rec-5.webp);
+}
+.new6::-webkit-slider-thumb {
+  background: url(../assets/media/rec-6.webp);
+}
+.new4::-webkit-slider-thumb {
+  background: url(../assets/media/rec-4.webp);
+}
+.new3::-webkit-slider-thumb {
+  background: url(../assets/media/rec-3.webp);
+}
+.new2::-webkit-slider-thumb {
+  background: url(../assets/media/rec-2.webp);
+}
+.new1::-webkit-slider-thumb {
+  background: url(../assets/media/rec-1.webp);
+}
+.new0::-webkit-slider-thumb {
+  background: url(../assets/media/rec-0.webp);
+}
+.new7::-webkit-slider-thumb {
+  background: url(../assets/media/rec-7.webp);
+}
+.new8::-webkit-slider-thumb {
+  background: url(../assets/media/rec-8.webp);
+}
+.new9::-webkit-slider-thumb {
+  background: url(../assets/media/rec-9.webp);
+}
+.new10::-webkit-slider-thumb {
+  background: url(../assets/media/rec-10.webp);
+}
+.new11::-webkit-slider-thumb {
+  background: url(../assets/media/rec-11.webp);
+}
+.new12::-webkit-slider-thumb {
+  background: url(../assets/media/rec-12.webp);
+}
+
+
+
+
+input[type=range]:focus::-webkit-slider-runnable-track {
+  background: linear-gradient(90deg, rgb(210, 70, 158) 0.78%, rgba(75, 213, 207) 100.02%);
+  mix-blend-mode: normal;
+  border-radius: 5.24558px;
+}
+.carSlideText{
+  position: relative;
+
+  bottom: -5px;
+  height: 16px;
+  font-family: 'Nippo';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13.6385px;
+  line-height: 16px;
+  letter-spacing: 0.97418px;
+  color: #FFFFFF;
+  mix-blend-mode: normal;
+  opacity: 0.6;
+  margin-bottom:13px;
+  /**
+    * Для эксплорера
+    */
+    -ms-user-select: none;
+
+    /**
+    * Для мозилы
+    */
+    -moz-user-select: none;
+
+    /**
+    * Для конкверора
+    */
+    -khtml-user-select: none;
+
+    /**
+    * Для Сафари и Хрома
+    */
+    -webkit-user-select: none;
+}
